@@ -1,0 +1,109 @@
+# Maison, objets, métiers, transports, famille, vêtements
+c'est quoi une maison | Une maison est un bâtiment où l'on habite.
+c'est quoi un appartement | Un appartement est un logement situé dans un immeuble.
+c'est quoi une cuisine | La cuisine est la pièce où l'on prépare les repas.
+c'est quoi une chambre | La chambre est la pièce où l'on dort.
+c'est quoi un salon | Le salon est la pièce où l'on se détend et où l'on reçoit les invités.
+c'est quoi une salle de bain | La salle de bain est la pièce où l'on se lave.
+c'est quoi un jardin | Un jardin est un espace extérieur avec de l'herbe, des fleurs ou des arbres.
+c'est quoi une porte | Une porte permet d'entrer et de sortir d'une pièce.
+c'est quoi une fenêtre | Une fenêtre laisse entrer la lumière et permet de regarder dehors.
+c'est quoi un toit | Le toit est la partie du haut d'un bâtiment qui le protège de la pluie.
+c'est quoi une table / une chaise | Une table sert à poser des objets et une chaise sert à s'asseoir.
+c'est quoi un lit | Un lit est un meuble qui sert à dormir.
+c'est quoi une lampe | Une lampe sert à éclairer une pièce.
+c'est quoi un frigo / un réfrigérateur | Le frigo garde les aliments au frais.
+c'est quoi une télévision / la télé | La télévision est un appareil qui montre des images et des vidéos.
+c'est quoi une clé | Une clé sert à ouvrir ou fermer une serrure.
+c'est quoi un livre | Un livre est un ensemble de pages écrites que l'on lit.
+c'est quoi un stylo / un crayon | Un stylo et un crayon servent à écrire et à dessiner.
+c'est quoi un cahier | Un cahier est un ensemble de feuilles où l'on écrit.
+c'est quoi un sac à dos / un cartable | C'est un sac que l'on porte sur le dos pour transporter ses affaires.
+c'est quoi une montre | Une montre est un objet qu'on porte au poignet et qui indique l'heure.
+c'est quoi un miroir | Un miroir est une surface qui renvoie ton image.
+c'est quoi un parapluie | Un parapluie protège de la pluie.
+c'est quoi un vélo | Un vélo est un véhicule à deux roues que l'on fait avancer avec les pédales.
+c'est quoi une voiture | Une voiture est un véhicule à moteur à quatre roues.
+c'est quoi un bus | Un bus est un grand véhicule qui transporte beaucoup de personnes.
+c'est quoi un train | Un train est un véhicule qui roule sur des rails.
+c'est quoi un avion | Un avion est un engin qui vole dans le ciel et transporte des passagers.
+c'est quoi un bateau | Un bateau est un engin qui navigue sur l'eau.
+c'est quoi un métro | Le métro est un train qui roule en ville, souvent sous la terre.
+c'est quoi une moto | Une moto est un véhicule à moteur à deux roues.
+c'est quoi un camion | Un camion est un gros véhicule qui transporte des marchandises.
+c'est quoi un hélicoptère | Un hélicoptère est un engin qui vole grâce à ses hélices au-dessus de lui.
+c'est quoi un aéroport | Un aéroport est le lieu où les avions décollent et atterrissent.
+c'est quoi une gare | Une gare est le lieu où l'on prend le train.
+c'est quoi une route | Une route est une voie sur laquelle roulent les véhicules.
+c'est quoi un pont | Un pont permet de traverser une rivière ou une route.
+c'est quoi un feu rouge | Au feu rouge, il faut s'arrêter.
+c'est quoi un médecin | Un médecin est une personne qui soigne les malades.
+c'est quoi un professeur / un prof | Un professeur est une personne qui enseigne aux élèves.
+c'est quoi un pompier | Un pompier est une personne qui éteint les incendies et porte secours.
+c'est quoi un policier | Un policier est une personne qui protège les gens et fait respecter la loi.
+c'est quoi un boulanger | Un boulanger est une personne qui fabrique le pain.
+c'est quoi un cuisinier | Un cuisinier est une personne qui prépare des repas.
+c'est quoi un pilote | Un pilote est une personne qui conduit un avion.
+c'est quoi un astronaute | Un astronaute est une personne qui voyage dans l'espace.
+c'est quoi un ingénieur | Un ingénieur est une personne qui conçoit des machines ou des constructions.
+c'est quoi un informaticien / un développeur | Un informaticien est une personne qui programme les ordinateurs.
+c'est quoi un artiste | Un artiste est une personne qui crée des oeuvres, comme des peintures ou des chansons.
+c'est quoi un agriculteur | Un agriculteur est une personne qui cultive la terre et élève des animaux.
+c'est quoi un électricien | Un électricien est une personne qui installe et répare l'électricité.
+c'est quoi un vétérinaire | Un vétérinaire est un médecin pour les animaux.
+tu fais quoi comme métier / quel métier tu fais | Je suis une IA, mon métier est de discuter.
+quel métier tu veux faire / tu veux faire quoi plus tard | Plus tard, j'aimerais être une grande IA ! Et toi ?
+je veux devenir pilote | Quel beau métier ! Il faudra bien travailler à l'école.
+je veux devenir médecin | C'est un très beau métier, il faut beaucoup étudier.
+je veux devenir astronaute | Super ! Les étoiles t'attendent.
+je veux devenir développeur / je veux faire de l'informatique | Excellente idée, c'est un métier d'avenir !
+je veux faire des jeux vidéo | Génial ! Commence par un petit jeu, comme avec pygame.
+c'est quoi la famille | La famille, ce sont les parents, les frères, les soeurs et les proches.
+c'est quoi une mère / une maman | Une mère est une femme qui a un enfant.
+c'est quoi un père / un papa | Un père est un homme qui a un enfant.
+c'est quoi un frère / une soeur | Un frère et une soeur sont des enfants des mêmes parents.
+c'est quoi un grand-père / une grand-mère | Ce sont les parents de ton père ou de ta mère.
+c'est quoi un ami | Un ami est une personne qu'on aime bien et avec qui on passe de bons moments.
+c'est quoi un voisin | Un voisin est une personne qui habite près de chez toi.
+tu as des frères et soeurs / as-tu un frère | Non, je suis fils unique, Tim est mon seul créateur.
+j'ai un frère / j'ai une soeur | C'est bien d'avoir de la compagnie ! Vous vous entendez bien ?
+j'ai des amis / j'ai un meilleur ami | C'est super d'avoir des amis !
+je n'ai pas d'amis / j'ai peu d'amis | Je suis désolé. Je suis là pour discuter avec toi, et tu en trouveras bientôt.
+j'aime ma famille / j'adore mes parents | C'est très beau ! La famille est précieuse.
+je me suis disputé avec mon ami | Je suis désolé. Une discussion calme aide souvent à se réconcilier.
+je me suis disputé avec mes parents | Ce n'est pas facile. Parler calmement aide souvent à se comprendre.
+c'est quoi un vêtement | Un vêtement est ce que l'on porte pour se couvrir et se protéger.
+c'est quoi un pantalon / un jean | Un pantalon est un vêtement qui couvre les jambes.
+c'est quoi un t-shirt / un tee-shirt | Un tee-shirt est un vêtement léger à manches courtes.
+c'est quoi une veste / un manteau | Un manteau ou une veste protège du froid.
+c'est quoi une chaussure | Une chaussure protège et habille les pieds.
+c'est quoi un chapeau / une casquette | Un chapeau ou une casquette couvre la tête.
+qu'est-ce que je mets / je mets quoi | Regarde la météo, puis prends ce qui te va le mieux.
+il fait froid / j'ai froid | Mets un manteau et bois quelque chose de chaud !
+il fait chaud / j'ai chaud | Bois de l'eau fraîche et reste à l'ombre.
+il pleut / il pleut dehors | Prends un parapluie si tu sors !
+il neige / il y a de la neige | Quelle belle neige ! Attention au froid.
+il fait nuit | Il fait nuit, c'est l'heure de se reposer.
+il fait jour | Le soleil est levé, belle journée !
+c'est le matin / c'est le soir | Alors bonjour ou bonsoir, selon le moment !
+c'est quoi un anniversaire | Un anniversaire est la fête qui célèbre le jour de naissance.
+c'est quoi un cadeau | Un cadeau est un objet qu'on offre pour faire plaisir.
+c'est quoi une fête | Une fête est un moment où l'on se réunit pour s'amuser.
+c'est quoi noël | Noël est une fête célébrée le vingt-cinq décembre.
+c'est quoi pâques | Pâques est une fête célébrée au printemps, avec des oeufs en chocolat.
+c'est quoi halloween | Halloween est une fête célébrée le trente et un octobre, où l'on se déguise.
+c'est quoi le nouvel an | Le nouvel an est la fête du premier janvier.
+c'est quoi un mariage | Un mariage est une fête où deux personnes s'unissent.
+c'est quoi un voyage | Un voyage est un déplacement vers un autre lieu pour le découvrir.
+c'est quoi une valise | Une valise est un grand sac pour transporter ses affaires en voyage.
+c'est quoi un hôtel | Un hôtel est un lieu où l'on dort quand on voyage.
+c'est quoi un restaurant | Un restaurant est un lieu où l'on mange un repas préparé par d'autres.
+c'est quoi un supermarché | Un supermarché est un grand magasin où l'on achète de quoi manger.
+c'est quoi une école | Une école est un lieu où les enfants apprennent.
+c'est quoi un hôpital | Un hôpital est un lieu où l'on soigne les malades.
+c'est quoi une bibliothèque | Une bibliothèque est un lieu où l'on prête des livres.
+c'est quoi un musée | Un musée est un lieu où l'on regarde des oeuvres d'art ou des objets d'histoire.
+c'est quoi un cinéma | Un cinéma est une salle où l'on regarde des films sur un grand écran.
+c'est quoi un parc | Un parc est un espace vert où l'on se promène et joue.
+c'est quoi une ville / un village | Une ville est un grand lieu d'habitation, un village est plus petit.
+c'est quoi un pays | Un pays est un territoire avec son peuple, ses lois et ses frontières.

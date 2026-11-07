@@ -1,0 +1,30 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Mots français",
+            "type": "shell",
+            "command": "python -X utf8 -u mots.py",
+            "options": { "cwd": "${workspaceFolder}/code/ia" },
+            "isBackground": true,
+            "problemMatcher": [],
+            "presentation": { "reveal": "always", "panel": "dedicated", "group": "collecte" }
+        },
+        {
+            "label": "Mots anglais",
+            "type": "shell",
+            "command": "python -X utf8 -u mots_en.py",
+            "options": { "cwd": "${workspaceFolder}/code/ia" },
+            "isBackground": true,
+            "problemMatcher": [],
+            "presentation": { "reveal": "always", "panel": "dedicated", "group": "collecte" }
+        },
+        {
+            "label": "Collecte : mots FR + EN",
+            "dependsOn": ["Mots français", "Mots anglais"],
+            "dependsOrder": "parallel",
+            "problemMatcher": [],
+            "group": { "kind": "build", "isDefault": true }
+        }
+    ]
+}

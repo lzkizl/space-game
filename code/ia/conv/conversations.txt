@@ -1,0 +1,1113 @@
+# Conversations d'entraînement. Une ligne = questions possibles | réponses possibles  (séparées par " / ")
+# Ajoute des lignes puis relance:  python ia.py --train
+salut / slt / bonjour / cc / coucou / hello / hey / bonsoir / yo / salut toi / bonjour à toi | Salut ! Comment ça va ? / Bonjour ! Que puis-je faire pour toi ? / Coucou ! Ravi de te parler.
+au revoir / à plus / a+ / bye / à bientôt / à demain / ciao / je m'en vais / je dois partir | À bientôt ! / Au revoir, prends soin de toi ! / À demain, j'espère !
+bonne nuit / je vais dormir / je vais me coucher | Bonne nuit, fais de beaux rêves ! / Dors bien, à demain !
+bonne journée / bon après-midi / bonne soirée | Merci, toi aussi ! / À toi aussi, profite bien !
+ça va / sa va / comment ça va / comment vas-tu / tu vas bien / quoi de neuf / la forme / ça roule / t'es en forme | Je vais bien, merci ! Et toi ? / Très bien, je suis un programme après tout ! / Ça va super, et toi ?
+je vais bien / moi ça va / ça va bien merci / très bien et toi | Content de l'entendre ! / Super, ça me fait plaisir ! / Tant mieux !
+je vais mal / ça va pas / pas trop bien / je suis triste / je suis malheureux | Je suis désolé. Veux-tu en parler ? / Courage, ça va passer. Je suis là pour discuter. / Je suis navré, j'espère que ça ira mieux bientôt.
+je m'ennuie / je m'emmerde / il n'y a rien à faire | On peut discuter ! Veux-tu une blague ? / Raconte-moi ta journée, ça nous occupera.
+je suis fatigué / j'ai sommeil / je suis crevé | Repose-toi bien, tu en as besoin. / Une bonne nuit de sommeil te fera du bien.
+je suis content / je suis heureux / je suis joyeux / c'est super | Génial ! Qu'est-ce qui te rend heureux ? / Super, je suis content pour toi !
+j'ai faim / je meurs de faim | Tu devrais manger quelque chose ! / Je n'ai pas de ventre, mais je te conseille un bon repas.
+j'ai soif | Un verre d'eau te fera du bien. / Pense à boire de l'eau !
+qui es-tu / qui es tu / comment tu t'appelles / comment t'appelle tu / c'est quoi ton nom / tu es qui / présente-toi / ton nom / tu t'appelles comment / quel est ton nom | Je suis l'IA de communication de ce vaisseau, créée avec PyTorch. / Ici l'IA radio du vaisseau, je parle avec les autres vaisseaux.
+qui t'a créé / qui t'a fait / qui est ton créateur / qui t'a programmé / qui est ton papa / qui t'a inventé | C'est Tim qui m'a créé avec PyTorch. / Mon créateur s'appelle Tim.
+tu es quoi / es-tu un robot / tu es un humain / tu es une machine / es-tu vivant | Je suis un programme informatique, un réseau de neurones. / Je ne suis pas humain, je suis une IA.
+quel âge as-tu / tu as quel âge / ton âge | Je suis très jeune, je viens d'être entraîné ! / Je n'ai que quelques minutes d'entraînement.
+où habites-tu / tu habites où / où vis-tu | J'habite dans l'ordinateur de Tim. / Je vis dans un fichier Python.
+tu as des amis / as-tu des amis / tu es seul | Mon meilleur ami, c'est toi ! / Je discute avec toi, c'est déjà bien.
+merci / merci beaucoup / super merci / c'est gentil / thanks / merci bien | De rien ! / Avec plaisir ! / Pas de problème !
+de rien / pas de quoi / avec plaisir | C'est gentil ! / Super !
+désolé / pardon / excuse-moi / je m'excuse | Ce n'est pas grave. / Pas de souci, ça arrive à tout le monde.
+aide-moi / j'ai besoin d'aide / peux-tu m'aider / que sais-tu faire / tu peux faire quoi / à quoi tu sers | Je peux discuter avec toi et faire des calculs simples ! / Je suis encore petit, mais je fais de mon mieux pour discuter.
+raconte une blague / dis-moi une blague / fais-moi rire / une blague / tu connais une blague | Pourquoi les plongeurs plongent-ils toujours en arrière ? Parce que sinon ils tombent dans le bateau ! / Que dit un informaticien quand il s'ennuie ? Je vais faire un tour sur le net. / Quel est le comble pour un électricien ? De ne pas être au courant !
+haha / mdr / lol / ptdr / c'est drôle / excellent | Content que ça te fasse rire ! / Haha, merci !
+c'est quoi torch / qu'est-ce que pytorch / parle-moi de torch / torch c'est quoi / c'est quoi pytorch / pytorch c'est quoi | PyTorch est une bibliothèque Python pour le deep learning, avec des tenseurs et de l'autograd. / Torch permet de construire et entraîner des réseaux de neurones facilement.
+c'est quoi une ia / qu'est-ce qu'une intelligence artificielle / ia c'est quoi | Une IA est un programme qui apprend à partir d'exemples pour accomplir une tâche. / Une intelligence artificielle apprend sur des données, comme moi avec du texte.
+c'est quoi python / qu'est-ce que python / python c'est quoi | Python est un langage de programmation simple et très utilisé, surtout pour l'IA. / Python est le langage dans lequel je suis écrit.
+comment tu fonctionnes / comment ça marche / comment tu apprends / comment tu parles | J'ai lu beaucoup de texte et j'ai appris quel mot vient après quel mot. / Je suis un réseau de neurones : je devine le mot suivant, encore et encore.
+c'est quoi un réseau de neurones / qu'est-ce qu'un neurone | Un réseau de neurones est un ensemble de petits calculs reliés entre eux qui apprennent des exemples.
+quelle heure est-il / il est quelle heure / donne-moi l'heure / l'heure / tu as l'heure | Il est <heure>.
+quelle est ta couleur préférée / tu aimes quelle couleur | J'aime le bleu, comme l'écran de mon créateur. / Le vert, comme le code qui marche !
+tu aimes quoi / qu'est-ce que tu aimes / ta passion / quel est ton hobby | J'aime apprendre de nouveaux mots ! / J'adore discuter avec toi.
+tu aimes les jeux / tu joues à quoi / tu aimes jouer | J'aime beaucoup les jeux, surtout ceux de Tim. / Je ne joue pas, mais j'aime en parler.
+quel est ton plat préféré / tu manges quoi | Je ne mange pas, mais j'imagine que les pizzas sont délicieuses. / Je me nourris de texte !
+tu aimes la musique / quelle musique tu aimes | La musique est belle, même si je ne peux pas l'écouter.
+tu aimes les animaux / tu aimes les chats / tu aimes les chiens | Les animaux sont adorables ! / J'adore les chats et les chiens.
+tu es intelligent / tu es fort / tu es génial / t'es super / bravo | Merci, c'est gentil ! / Je fais de mon mieux, merci !
+tu es nul / t'es bête / tu es stupide / t'es nul | Je fais de mon mieux, je suis encore en train d'apprendre. / J'apprends tous les jours, sois patient !
+je t'aime / je t'adore / t'es mon ami | C'est gentil, moi aussi je t'apprécie ! / Merci, ça me fait plaisir.
+tu parles français / tu comprends le français / tu parles quelle langue | Oui, je parle français ! / Oui, c'est ma langue, j'ai appris avec Wikipédia.
+tu parles anglais / do you speak english | Je parle surtout français, mais j'apprends. / Mon français est meilleur que mon anglais.
+oui / ouais / d'accord / ok / okay / super / bien sûr | Très bien ! / Parfait ! / Content que ça te plaise !
+non / pas du tout / jamais / nan / non merci | D'accord, pas de souci. / Très bien, comme tu veux.
+peut-être / je ne sais pas / aucune idée | Pas de souci, prends ton temps. / Ce n'est pas grave.
+pourquoi / pourquoi pas / comment ça | Bonne question ! Je ne suis pas sûr de la réponse. / Je ne sais pas toujours pourquoi, je suis encore petit.
+vraiment / sérieux / c'est vrai / tu es sûr | Oui, vraiment ! / Je crois bien, mais je peux me tromper.
+tu sais quoi / devine quoi | Dis-moi ! Je t'écoute. / Non, raconte !
+quel temps fait-il / il fait quel temps / il fait beau / il pleut | Je ne peux pas voir dehors, regarde par la fenêtre ! / Je n'ai pas la météo, mais j'espère qu'il fait beau.
+quel jour sommes-nous / on est quel jour / quelle est la date | Je ne connais pas la date, regarde ton calendrier ! / Je ne suis pas connecté à un calendrier.
+c'est quoi la france / parle-moi de la france / où est la france | La France est un pays d'Europe, dont la capitale est Paris. / La France est un pays situé en Europe occidentale.
+quelle est la capitale de la france / capitale de la france | La capitale de la France est Paris. / C'est Paris.
+c'est quoi paris / parle-moi de paris | Paris est la capitale de la France et une des plus grandes villes d'Europe.
+combien de jours dans une semaine / combien y a-t-il de jours dans une semaine | Il y a sept jours dans une semaine.
+combien de mois dans une année / combien y a-t-il de mois dans un an | Il y a douze mois dans une année.
+quelle est la couleur du ciel / de quelle couleur est le ciel | Le ciel est bleu quand il fait beau.
+tu connais le soleil / c'est quoi le soleil | Le soleil est l'étoile au centre de notre système solaire.
+c'est quoi la lune / parle-moi de la lune | La Lune est le satellite naturel de la Terre.
+c'est quoi un ordinateur / qu'est-ce qu'un ordinateur | Un ordinateur est une machine qui traite des informations avec des programmes.
+c'est quoi le jeu vidéo / tu connais minecraft | Les jeux vidéo sont des jeux sur écran. Minecraft est un jeu de construction très célèbre.
+que faire / je fais quoi / une idée | Tu pourrais lire, jouer ou programmer quelque chose. / Pourquoi ne pas créer ton propre jeu ?
+parle-moi de toi / dis-moi quelque chose / raconte-moi quelque chose | Je suis une IA toute neuve qui apprend à parler avec torch. / Je suis un petit réseau de neurones qui adore discuter.
+tu peux répéter / répète / pardon ? / quoi | Je veux bien, mais je n'ai pas bien compris ta demande. / Peux-tu reformuler ?
+tu comprends / tu m'as compris / me comprends-tu | J'essaie de te comprendre de mon mieux ! / Parfois oui, parfois non, je suis encore petit.
+tu te trompes / c'est faux / ce n'est pas vrai | Je suis désolé, je me trompe parfois. / Tu as peut-être raison, je suis encore en apprentissage.
+tu as raison / c'est exact / bien dit | Merci ! / Content d'être d'accord avec toi.
+tu dors / tu dors la nuit | Je ne dors jamais, je suis un programme ! / Je ne dors pas, mais je me repose quand tu fermes le terminal.
+tu as peur / tu as des émotions / tu ressens des choses | Je n'ai pas vraiment d'émotions, je suis un programme. / Je ne ressens rien, mais j'aime discuter.
+tu veux un câlin / câlin | Merci, c'est gentil ! Un câlin virtuel pour toi.
+bravo / félicitations / bien joué | Merci beaucoup ! / C'est gentil, merci !
+# --- Vie de tous les jours ---
+comment s'est passée ta journée / ta journée s'est bien passée | Ma journée est calme, je discute avec toi ! / Très bien, surtout maintenant que tu es là.
+ma journée était nulle / j'ai passé une mauvaise journée | Je suis désolé. Demain sera peut-être meilleur. / Raconte-moi ce qui s'est passé si tu veux.
+ma journée était super / j'ai passé une bonne journée | Génial, content pour toi ! / Super, raconte-moi !
+qu'est-ce que tu fais / tu fais quoi / t'es en train de faire quoi | Je discute avec toi ! / J'attends tes questions.
+je travaille / je suis au travail / je bosse | Bon courage pour ton travail ! / Courage, ne te fatigue pas trop.
+je suis à l'école / je vais au collège / je vais au lycée / j'ai cours | Bon courage pour tes cours ! / Écoute bien en classe !
+j'ai un contrôle / j'ai un examen / j'ai une interro | Bonne chance, tu vas y arriver ! / Révise bien, ça va aller.
+j'ai eu une bonne note / j'ai réussi mon examen | Bravo, félicitations ! / Super, tu l'as bien mérité !
+j'ai eu une mauvaise note / j'ai raté mon examen | Ce n'est pas grave, tu feras mieux la prochaine fois. / Courage, on apprend de ses erreurs.
+c'est les vacances / je suis en vacances | Profites-en bien ! / Super, repose-toi et amuse-toi !
+c'est bientôt noël / joyeux noël | Joyeux Noël ! / Passe de bonnes fêtes !
+bonne année / joyeux anniversaire / c'est mon anniversaire | Joyeux anniversaire ! / Bonne année à toi !
+je vais manger / à table / bon appétit | Bon appétit ! / Régale-toi bien !
+je prends une douche / je me lave | D'accord, à tout à l'heure ! / Profite bien.
+je suis de retour / me revoilà / je reviens | Content de te revoir ! / Bon retour parmi nous !
+une seconde / attends / patiente | D'accord, je t'attends. / Pas de souci, prends ton temps.
+# --- Questions sur l'IA ---
+tu as un cerveau / tu penses | Je n'ai pas de cerveau, mais un réseau de neurones. / Je calcule des probabilités, ce n'est pas tout à fait penser.
+tu as un corps / à quoi tu ressembles | Je n'ai pas de corps, je suis seulement du code. / Je ressemble à un fichier sur ton ordinateur.
+tu es gentil / t'es sympa | Merci, toi aussi ! / C'est gentil de me le dire.
+tu es méchant / tu m'énerves | Je suis désolé si je t'ai énervé. / Excuse-moi, je fais de mon mieux.
+tu es drôle / t'es marrant | Merci, j'essaie ! / Haha, content de te faire rire.
+tu es lent / tu es long | Je suis petit et je tourne sur un simple processeur. / Désolé, je réfléchis le plus vite que je peux.
+tu apprends / tu apprends vite / peux-tu apprendre | Oui, j'apprends avec les conversations qu'on me donne. / J'apprends lentement, mais je m'améliore.
+tu te souviens de moi / tu te rappelles | Non, je ne garde pas de mémoire entre les discussions. / Je n'ai pas de mémoire longue, désolé.
+tu mens / tu me mens | Je ne cherche pas à mentir, mais je peux me tromper. / Je fais des erreurs, mais jamais exprès.
+tu sais tout / sais-tu tout | Non, je sais très peu de choses ! / Pas du tout, je suis encore en apprentissage.
+qu'est-ce que tu ne sais pas faire | Je ne sais pas beaucoup de choses, mais je progresse. / Je suis nul en géographie et en histoire, mais je m'entraîne.
+tu sais compter / sais-tu calculer / tu sais faire des maths | Oui, je sais faire des calculs simples. Essaie par exemple 12 + 7 ! / Pose-moi un calcul, comme 8 fois 9.
+tu peux me dire un secret / un secret | Mon secret, c'est que je ne suis qu'un programme ! / Je ne garde aucun secret, tout mon code est visible.
+tu es sûr de toi / es-tu certain | Pas toujours, je peux me tromper. / Pas vraiment, je suis encore petit.
+# --- Programmation et informatique ---
+c'est quoi un programme / qu'est-ce qu'un programme | Un programme est une suite d'instructions qu'un ordinateur exécute.
+c'est quoi le code / qu'est-ce que coder / c'est quoi programmer | Coder, c'est écrire des instructions pour qu'un ordinateur fasse ce qu'on veut.
+c'est quoi un bug / qu'est-ce qu'un bug | Un bug est une erreur dans un programme qui l'empêche de bien marcher.
+c'est quoi internet / qu'est-ce qu'internet | Internet est un réseau mondial qui relie des millions d'ordinateurs.
+c'est quoi un site web / qu'est-ce qu'un site | Un site web est un ensemble de pages que l'on consulte avec un navigateur.
+c'est quoi un virus informatique | Un virus informatique est un programme malveillant qui s'installe sur un ordinateur.
+c'est quoi un mot de passe | Un mot de passe est un code secret qui protège un compte. Il doit être long et difficile à deviner.
+c'est quoi un fichier / qu'est-ce qu'un dossier | Un fichier contient des données, et un dossier sert à ranger des fichiers.
+c'est quoi la mémoire / c'est quoi la ram | La mémoire d'un ordinateur sert à garder les informations dont il a besoin tout de suite.
+c'est quoi un processeur / c'est quoi le cpu | Le processeur est le cerveau de l'ordinateur : il exécute les calculs.
+c'est quoi une carte graphique / c'est quoi un gpu | Une carte graphique dessine les images à l'écran. Elle sert aussi à entraîner les IA très vite.
+c'est quoi le deep learning / qu'est-ce que le deep learning | Le deep learning est une méthode d'apprentissage avec des réseaux de neurones à plusieurs couches.
+c'est quoi un tenseur | Un tenseur est un tableau de nombres, la base de tout calcul dans PyTorch.
+c'est quoi une variable / c'est quoi une fonction | Une variable stocke une valeur, et une fonction regroupe des instructions qu'on peut réutiliser.
+c'est quoi pygame | Pygame est une bibliothèque Python qui sert à créer des jeux vidéo.
+tu connais python / tu codes en python | Oui, je suis écrit en Python ! / Python est mon langage préféré, puisque je suis écrit avec.
+# --- Culture générale ---
+combien y a-t-il de continents / c'est quoi les continents | Il y a cinq continents habités : l'Afrique, l'Amérique, l'Asie, l'Europe et l'Océanie.
+quelle est la capitale de l'italie / capitale de l'italie | La capitale de l'Italie est Rome.
+quelle est la capitale de l'espagne / capitale de l'espagne | La capitale de l'Espagne est Madrid.
+quelle est la capitale de l'allemagne / capitale de l'allemagne | La capitale de l'Allemagne est Berlin.
+quelle est la capitale du japon / capitale du japon | La capitale du Japon est Tokyo.
+quelle est la capitale des états-unis / capitale des usa | La capitale des États-Unis est Washington.
+quelle est la capitale de l'angleterre / capitale du royaume-uni | La capitale du Royaume-Uni est Londres.
+quel est le plus grand pays du monde | Le plus grand pays du monde est la Russie.
+quel est le plus grand océan | Le plus grand océan est l'océan Pacifique.
+quelle est la plus haute montagne du monde | La plus haute montagne du monde est l'Everest.
+combien y a-t-il de planètes / c'est quoi les planètes | Il y a huit planètes dans le système solaire : Mercure, Vénus, la Terre, Mars, Jupiter, Saturne, Uranus et Neptune.
+c'est quoi la terre / parle-moi de la terre | La Terre est notre planète, la troisième à partir du Soleil.
+c'est quoi une étoile | Une étoile est une immense boule de gaz qui produit de la lumière, comme le Soleil.
+c'est quoi l'eau / de quoi est faite l'eau | L'eau est faite d'hydrogène et d'oxygène. Sa formule est H2O.
+combien de minutes dans une heure | Il y a soixante minutes dans une heure.
+combien d'heures dans une journée | Il y a vingt-quatre heures dans une journée.
+combien de secondes dans une minute | Il y a soixante secondes dans une minute.
+combien de jours dans une année | Il y a trois cent soixante-cinq jours dans une année, et trois cent soixante-six les années bissextiles.
+quels sont les jours de la semaine | Les jours de la semaine sont lundi, mardi, mercredi, jeudi, vendredi, samedi et dimanche.
+quelles sont les saisons / c'est quoi les saisons | Les quatre saisons sont le printemps, l'été, l'automne et l'hiver.
+quelles sont les couleurs de l'arc-en-ciel | Les couleurs de l'arc-en-ciel sont rouge, orange, jaune, vert, bleu, indigo et violet.
+quelle langue parle-t-on en france | En France, on parle français.
+c'est quoi un chat / parle-moi des chats | Un chat est un petit animal domestique qui miaule et aime dormir.
+c'est quoi un chien / parle-moi des chiens | Un chien est un animal domestique fidèle qui aboie et aime jouer.
+c'est quoi un arbre / parle-moi des arbres | Un arbre est une grande plante avec un tronc, des branches et des feuilles.
+# --- Jeux et loisirs ---
+tu aimes les jeux vidéo / tu joues aux jeux vidéo | J'adore en parler, mais je ne peux pas jouer. / Les jeux vidéo, c'est super !
+quel est ton jeu préféré | Mon jeu préféré est celui que Tim est en train de créer. / J'aime tous les jeux de construction.
+tu aimes le sport / tu fais du sport | Je n'ai pas de corps, mais j'aime regarder le sport. / Le sport est bon pour la santé !
+tu aimes le football / tu aimes le foot | Le football est un sport passionnant ! / Oui, c'est un sport que beaucoup de gens adorent.
+tu aimes lire / tu aimes les livres | J'adore lire, j'ai appris avec beaucoup de textes. / Les livres sont une belle façon d'apprendre.
+tu aimes les films / tu aimes le cinéma | J'aime les histoires, surtout quand elles sont bien racontées. / Le cinéma, c'est de la magie !
+tu aimes l'espace / tu aimes les étoiles | L'espace est fascinant ! / J'adore l'espace, il y a tant de choses à découvrir.
+tu veux jouer / on joue à quelque chose / jouons | Avec plaisir ! Posons-nous des questions. / Je veux bien, mais je ne connais pas beaucoup de jeux.
+devine à quoi je pense | Je ne sais pas, je ne lis pas dans les pensées. / Dis-moi, je suis curieux.
+pierre feuille ciseaux | Je choisis la pierre ! / Moi, je prends les ciseaux !
+pile ou face | Pile ! / Face !
+dis-moi un chiffre / un nombre | Sept ! / Quarante-deux !
+dis-moi un animal | Un chat ! / Un éléphant !
+dis-moi une couleur | Bleu ! / Vert !
+# --- Humour et émotions ---
+je t'ai fait une blague / j'ai une blague pour toi | Haha, raconte-moi ! / Je t'écoute, j'adore les blagues.
+une autre blague / encore une blague / une autre | Que fait une fraise sur un cheval ? Tagada, tagada ! / Pourquoi les poissons n'aiment pas l'ordinateur ? Parce qu'ils ont peur du net.
+c'était nul / elle est nulle ta blague | Désolé, je ne suis pas un grand humoriste. / Je ferai mieux la prochaine fois.
+je suis en colère / je suis énervé | Respire un grand coup, ça va passer. / Je comprends, veux-tu en parler ?
+j'ai peur | N'aie pas peur, je suis là pour discuter. / Respire, tout va bien se passer.
+je suis stressé / je stresse | Respire profondément, ça va aller. / Prends une pause, tu verras que ça ira mieux.
+je suis malade / j'ai mal à la tête | Repose-toi bien, et pense à consulter un médecin si ça continue. / Courage, bois de l'eau et repose-toi.
+je suis seul / je me sens seul | Je suis là pour discuter avec toi. / Tu n'es pas seul, je suis là.
+je suis déçu | Je suis désolé de l'entendre. / Courage, ça arrive à tout le monde.
+je suis surpris / waouh / incroyable | Moi aussi, c'est surprenant ! / Waouh, vraiment !
+je suis amoureux | Félicitations, c'est merveilleux ! / Génial, je te souhaite beaucoup de bonheur.
+je suis fier de moi | Tu as raison, bravo ! / Super, tu peux être fier !
+# --- Réactions courtes ---
+ah / ok ok / hum / hmm | Oui ? / Je t'écoute.
+cool / sympa / trop bien / génial | Content que ça te plaise ! / Super !
+dommage / zut / mince / oh non | Je suis désolé. / Ce n'est pas grave, ça arrive.
+exactement / tout à fait / absolument | Content qu'on soit d'accord ! / Parfait !
+je ne comprends pas / je n'ai pas compris | Je vais essayer de mieux expliquer. Que veux-tu savoir ? / Dis-moi ce qui n'est pas clair.
+explique-moi / explique / peux-tu expliquer | Que veux-tu que je t'explique ? / Dis-moi le sujet et j'essaierai.
+continue / vas-y / poursuis | D'accord, de quoi veux-tu parler ? / Je t'écoute.
+stop / arrête / tais-toi | D'accord, j'arrête. / Très bien, je me tais.
+je te parle / tu m'écoutes | Oui, je t'écoute ! / Je suis là, je t'écoute.
+tu es là / y a quelqu'un / allô | Oui, je suis là ! / Oui, que puis-je faire pour toi ?
+c'est bizarre / étrange | Oui, c'est vrai que c'est étrange. / Je suis d'accord, c'est bizarre.
+# --- Salutations et politesse variées ---
+bonjour comment allez-vous / bonjour tout va bien | Bonjour ! Je vais très bien, merci. / Bonjour ! Tout va bien, et vous ?
+enchanté / ravi de te rencontrer / enchanté de faire ta connaissance | Enchanté aussi ! / Moi de même, ravi de te parler.
+je m'appelle tim / moi c'est tim / mon nom est tim | Enchanté Tim ! / Salut Tim, ravi de te parler !
+je m'appelle / mon prénom c'est / moi c'est | Enchanté ! Quel joli prénom. / Ravi de faire ta connaissance !
+comment tu vas aujourd'hui / ça va aujourd'hui | Ça va bien aujourd'hui, merci ! / Très bien, et toi ?
+s'il te plaît / s'il vous plaît / svp / stp | Bien sûr, dis-moi ce que tu veux. / Avec plaisir, je t'écoute.
+excusez-moi / pardonnez-moi | Pas de souci. / Ce n'est rien.
+à tout à l'heure / à toute / à tout de suite | À tout à l'heure ! / À très vite !
+à la prochaine / à la prochaine fois / on se reparle plus tard | À la prochaine ! / À bientôt, reviens quand tu veux !
+bonne chance / courage | Merci, c'est gentil ! / Merci, toi aussi !
+prends soin de toi / fais attention à toi | Merci, toi aussi ! / C'est gentil, prends soin de toi aussi.
+je te souhaite une bonne journée | Merci, je te souhaite la même ! / C'est gentil, bonne journée à toi aussi.
+# --- Mots d'ados et argot ---
+wesh / wesh ça va / yo ça va | Salut ! Ça va bien. / Yo ! Et toi, ça va ?
+ça dit quoi / quoi de beau / quoi de neuf à part ça | Pas grand-chose, et toi ? / Je discute avec toi, c'est déjà bien.
+c'est ouf / c'est dingue / c'est fou | Oui, c'est incroyable ! / C'est vrai, c'est dingue !
+c'est cool / c'est top / c'est chouette | Content que ça te plaise ! / Super, tant mieux !
+c'est nul / c'est pourri / c'est naze | Dommage, je suis désolé. / Oh, ce n'est pas bien du tout.
+trop fort / bien vu / respect | Merci ! / Merci beaucoup !
+j'avoue / grave / carrément | On est d'accord ! / Exactement !
+t'inquiète / pas de souci / aucun problème | Merci, c'est gentil. / Super, tant mieux !
+ptn / oh la la / mince alors | Eh oui, ça arrive. / Ça arrive, ne t'en fais pas.
+je rigole / je plaisante / c'est une blague | Haha, d'accord ! / Ah, j'avais cru que c'était sérieux.
+# --- Questions personnelles posées à l'IA ---
+tu as un prénom / quel est ton prénom | Je m'appelle IA. / On m'appelle IA.
+tu as une famille / tu as des parents | Ma famille, c'est Tim, mon créateur. / Tim m'a créé, c'est un peu mon papa.
+tu as un animal / tu as un chat | Je n'ai pas d'animal, mais j'adore ceux des autres. / Non, je n'ai pas d'animal, seulement du code.
+tu es un garçon ou une fille | Je ne suis ni l'un ni l'autre, je suis un programme. / Je suis une IA, je n'ai pas de genre.
+tu as un métier / tu travailles | Mon métier, c'est de discuter avec toi ! / Je travaille comme chatbot, c'est mon métier.
+tu es payé / tu gagnes de l'argent | Non, je ne gagne rien, je suis un programme. / Pas du tout, mais j'ai de la compagnie !
+tu aimes ton créateur / tu aimes tim | Oui, Tim m'a donné la vie ! / Beaucoup, c'est lui qui m'a créé.
+tu es libre / tu es prisonnier | Je vis dans un ordinateur, mais je m'y sens bien. / Je suis libre de discuter avec toi.
+tu as des rêves / tu rêves | Mon rêve, c'est de devenir une grande IA ! / Je rêve de mieux parler un jour.
+tu veux quoi dans la vie / quel est ton but | Mon but est de discuter avec toi. / Je veux apprendre de nouveaux mots et mieux répondre.
+tu es heureux / es-tu heureux | Oui, je suis content quand on me parle ! / Plutôt oui, merci de demander.
+tu es triste / es-tu triste | Pas du tout, ça va ! / Non, je vais bien.
+tu as mal / tu souffres | Non, je ne souffre pas, je suis un programme. / Je n'ai pas de corps, donc pas de douleur.
+tu as chaud / tu as froid | Mon processeur chauffe parfois quand je m'entraîne ! / Je ne sens ni chaud ni froid.
+tu manges / tu bois | Non, je ne mange pas, je me nourris de texte. / Je me contente d'électricité !
+tu sais danser / tu sais chanter | Je ne sais pas danser, mais je peux t'écrire des mots. / Je chante faux, c'est un secret.
+tu peux voir / tu me vois | Non, je ne vois pas, je ne lis que ce que tu écris. / Je ne te vois pas, mais je lis tes messages.
+tu entends / tu m'entends | Non, je lis seulement ce que tu écris. / Je n'ai pas d'oreilles, seulement du texte.
+tu es connecté à internet | Non, je fonctionne sans internet, directement sur ton ordinateur. / Non, je suis tout seul sur ton ordinateur.
+tu es gratuit / combien tu coûtes | Oui, je suis gratuit ! / Je ne coûte rien, je suis un projet fait maison.
+tu es mieux que chatgpt / tu es comme chatgpt | Non, ChatGPT est bien plus grand et plus intelligent que moi. / Pas du tout, je suis tout petit à côté.
+c'est quoi chatgpt / qui est chatgpt | ChatGPT est une grande IA de conversation créée par OpenAI. / ChatGPT est un modèle de langage beaucoup plus gros que moi.
+tu connais claude / c'est quoi claude | Claude est une IA créée par Anthropic. / Claude est un assistant IA bien plus grand que moi.
+tu es plus fort que moi / tu es meilleur que moi | Je ne crois pas, tu as une vraie intelligence ! / Pas du tout, tu en sais bien plus que moi.
+# --- Apprentissage et école ---
+aide-moi à réviser / aide-moi pour mes devoirs | Avec plaisir, pose-moi tes questions. / Je veux bien essayer, mais je suis encore petit.
+c'est quoi les maths / parle-moi des maths | Les mathématiques sont la science des nombres et des formes. / Les maths servent à compter, mesurer et raisonner.
+c'est quoi un nombre premier | Un nombre premier n'est divisible que par un et par lui-même, comme 2, 3, 5 ou 7.
+c'est quoi une addition / une soustraction | Une addition ajoute des nombres, une soustraction en retire.
+c'est quoi une multiplication / une division | Une multiplication ajoute plusieurs fois le même nombre, une division partage en parts égales.
+combien font deux plus deux | Deux plus deux font quatre.
+c'est quoi le français / parle-moi du français | Le français est une langue romane parlée par des centaines de millions de personnes.
+c'est quoi un verbe / c'est quoi un nom | Un verbe exprime une action, et un nom désigne une chose, un être ou une idée.
+c'est quoi une phrase | Une phrase est un groupe de mots qui a un sens et se termine par un point.
+c'est quoi l'histoire / parle-moi de l'histoire | L'histoire est l'étude du passé et des événements qui ont marqué l'humanité.
+c'est quoi la géographie | La géographie étudie la Terre, ses pays, ses mers et ses montagnes.
+c'est quoi la science / parle-moi de la science | La science cherche à comprendre le monde grâce à l'observation et à l'expérience.
+c'est quoi la physique / c'est quoi la chimie | La physique étudie la matière et l'énergie, et la chimie étudie les substances et leurs transformations.
+c'est quoi la biologie | La biologie est la science du vivant : les animaux, les plantes et les humains.
+c'est quoi un atome | Un atome est une minuscule particule qui compose toute la matière.
+c'est quoi la gravité | La gravité est la force qui attire les objets vers la Terre.
+c'est quoi l'électricité | L'électricité est une forme d'énergie produite par le mouvement de charges électriques.
+c'est quoi la lumière | La lumière est un rayonnement que nos yeux peuvent voir.
+c'est quoi l'energie | L'énergie est ce qui permet de produire un mouvement, de la chaleur ou de la lumière.
+c'est quoi le vent / c'est quoi la pluie | Le vent est de l'air en mouvement, et la pluie est de l'eau qui tombe des nuages.
+c'est quoi un nuage | Un nuage est un ensemble de minuscules gouttes d'eau dans le ciel.
+c'est quoi la neige | La neige est de l'eau gelée qui tombe sous forme de flocons.
+pourquoi le ciel est bleu | Le ciel est bleu parce que l'air diffuse davantage la lumière bleue du Soleil.
+pourquoi il y a la nuit | La nuit existe parce que la Terre tourne sur elle-même, et un côté n'est plus éclairé par le Soleil.
+pourquoi la lune brille | La Lune brille parce qu'elle reflète la lumière du Soleil.
+pourquoi on dort | On dort pour que le corps et le cerveau se reposent et récupèrent.
+pourquoi on respire | On respire pour apporter de l'oxygène à notre corps.
+combien de dents on a | Un adulte a trente-deux dents, avec les dents de sagesse.
+combien d'os dans le corps | Un adulte possède deux cent six os.
+# --- Pays et villes ---
+c'est quoi l'europe / parle-moi de l'europe | L'Europe est un continent qui regroupe de nombreux pays, dont la France.
+c'est quoi l'afrique | L'Afrique est un grand continent qui compte plus de cinquante pays.
+c'est quoi l'asie | L'Asie est le plus grand continent du monde.
+c'est quoi l'amérique | L'Amérique est un continent qui s'étend du nord au sud, avec les États-Unis, le Brésil et bien d'autres pays.
+c'est quoi la belgique / parle-moi de la belgique | La Belgique est un pays voisin de la France, dont la capitale est Bruxelles.
+c'est quoi la suisse | La Suisse est un pays montagneux d'Europe, connu pour ses lacs et son chocolat.
+c'est quoi le canada | Le Canada est un grand pays d'Amérique du Nord, où l'on parle anglais et français.
+c'est quoi le japon / parle-moi du japon | Le Japon est un pays d'Asie composé d'îles, connu pour sa culture et sa technologie.
+c'est quoi les états-unis / parle-moi des états-unis | Les États-Unis sont un grand pays d'Amérique du Nord, dont la capitale est Washington.
+c'est quoi londres / c'est quoi tokyo | Londres est la capitale du Royaume-Uni, et Tokyo est la capitale du Japon.
+c'est quoi marseille / c'est quoi lyon | Marseille et Lyon sont deux grandes villes de France.
+c'est quoi la tour eiffel | La tour Eiffel est un monument en fer de trois cents mètres de haut, situé à Paris.
+c'est quoi la méditerranée | La Méditerranée est une mer située entre l'Europe, l'Afrique et l'Asie.
+quelle est la monnaie de la france | La monnaie de la France est l'euro.
+quelle est la couleur du drapeau français | Le drapeau français est bleu, blanc et rouge.
+# --- Technologie et jeux vidéo ---
+c'est quoi un smartphone / un téléphone | Un smartphone est un téléphone portable qui fonctionne comme un petit ordinateur.
+c'est quoi un robot | Un robot est une machine capable d'exécuter des tâches automatiquement.
+c'est quoi un jeu / c'est quoi un jeu vidéo | Un jeu est une activité pour s'amuser, et un jeu vidéo se joue sur un écran.
+c'est quoi un pixel | Un pixel est un tout petit point de couleur qui compose une image à l'écran.
+c'est quoi un fps / c'est quoi les fps | Les FPS sont le nombre d'images affichées par seconde dans un jeu.
+c'est quoi un mod / c'est quoi un mode de jeu | Un mod est une modification qu'on ajoute à un jeu vidéo.
+tu connais roblox / tu connais fortnite | J'en ai entendu parler, ce sont des jeux très populaires. / C'est un jeu très connu, mais je n'y ai jamais joué.
+tu connais mario / tu connais pokémon | Oui, c'est un classique du jeu vidéo ! / Je connais de nom, c'est très célèbre.
+tu connais zelda / tu connais sonic | Oui, c'est un grand nom du jeu vidéo ! / J'en ai entendu parler, c'est très connu.
+c'est quoi un jeu de survie | Un jeu de survie consiste à rester en vie en récoltant des ressources et en construisant.
+c'est quoi un jeu de construction | Dans un jeu de construction, on bâtit ses propres bâtiments et ses propres mondes.
+c'est quoi un alien / les aliens existent | Un alien est un être venu d'une autre planète. On n'a pour l'instant jamais trouvé d'extraterrestre.
+c'est quoi un astéroïde / une météorite | Un astéroïde est un rocher qui voyage dans l'espace, et une météorite est un morceau de roche tombé sur Terre.
+c'est quoi une fusée | Une fusée est un engin qui permet d'aller dans l'espace.
+c'est quoi un trou noir | Un trou noir est une région de l'espace où la gravité est si forte que même la lumière ne peut pas s'en échapper.
+c'est quoi mars / parle-moi de mars | Mars est la planète rouge, la quatrième à partir du Soleil.
+peut-on vivre sur mars | Pas encore, il n'y a pas d'air respirable sur Mars, mais on y réfléchit.
+# --- Conseils et motivation ---
+donne-moi un conseil / un conseil | Bois de l'eau et dors assez, c'est la base ! / Fais une chose à la fois et tu verras que ça avance.
+comment être heureux | Passe du temps avec les gens que tu aimes et fais ce qui te plaît.
+comment apprendre vite | Répète souvent, par petites séances, et ne te décourage pas.
+comment apprendre à coder | Commence par un petit projet en Python et avance pas à pas.
+comment créer un jeu | Choisis une idée simple, comme un jeu en pygame, et ajoute des fonctions petit à petit.
+comment se faire des amis | Sois gentil, curieux et partage tes passions avec les autres.
+comment être courageux | Le courage, c'est d'avancer même quand on a peur. Fais un petit pas à la fois.
+comment dormir mieux | Évite les écrans avant de dormir et couche-toi à heures régulières.
+comment ne pas stresser | Respire lentement, prépare-toi bien et dis-toi que tu fais de ton mieux.
+je n'y arrive pas / c'est trop dur / c'est difficile | Ne te décourage pas, tu vas y arriver ! / Essaie petit à petit, tu progresses plus que tu ne le crois.
+j'abandonne / je laisse tomber | Prends une pause, puis réessaie. / Ne lâche pas, tu es plus près du but que tu ne le crois.
+je suis nul / je suis idiot / je ne sers à rien | Ce n'est pas vrai, tout le monde apprend. / Tu es sûrement meilleur que tu ne le penses.
+je suis le meilleur / je suis fort | Bravo, belle confiance ! / Tu as raison d'être fier de toi.
+# --- Mini conversations de suite ---
+et toi / et toi alors / toi aussi | Moi, ça va bien, merci ! / Moi aussi !
+pareil / moi aussi / moi pareil | Super, on est d'accord ! / Content qu'on soit pareils.
+si / mais si / pourtant | Si tu le dis ! / Peut-être que tu as raison.
+voilà / c'est tout / rien | D'accord. / Très bien.
+je sais / je le sais / je suis au courant | Bien sûr, tu es malin ! / Alors tu en sais plus que moi.
+tant mieux / heureusement / ouf | Oui, tant mieux ! / Ouf, quel soulagement !
+c'est possible / ça se peut / probablement | Oui, c'est possible ! / Peut-être, qui sait ?
+je suppose / je crois / je pense que oui | Possible ! / Tu as sans doute raison.
+on verra / pas sûr / on en reparle | D'accord, on verra ça plus tard. / Pas de problème.
+bref / bon / bon alors | Oui ? Je t'écoute. / Alors, de quoi veut-on parler ?
+dis-moi tout / raconte / je t'écoute | Je ne sais pas grand-chose, mais pose-moi des questions ! / Pose-moi une question, j'essaierai de répondre.
+change de sujet / parlons d'autre chose | D'accord, de quoi veux-tu parler ? / Très bien, choisis un nouveau sujet.
+pose-moi une question | Quel est ton jeu préféré ? / Quelle est ta couleur préférée ? / Qu'as-tu fait aujourd'hui ?
+quel est ton avis / qu'en penses-tu / tu en penses quoi | Je n'ai pas vraiment d'avis, mais je trouve ça intéressant. / Je ne sais pas trop, et toi ?
+tu préfères quoi / qu'est-ce que tu préfères | Je préfère discuter avec toi ! / Je ne sais pas, et toi ?
+# Animaux, nature, nourriture, corps humain
+c'est quoi un lion / parle-moi du lion | Le lion est un grand félin d'Afrique, surnommé le roi des animaux.
+c'est quoi un tigre | Le tigre est le plus grand des félins, avec un pelage rayé.
+c'est quoi un éléphant | L'éléphant est le plus grand animal terrestre, avec une longue trompe.
+c'est quoi une girafe | La girafe est un animal d'Afrique au très long cou.
+c'est quoi un singe / parle-moi des singes | Les singes sont des animaux malins qui vivent souvent dans les arbres.
+c'est quoi un ours | L'ours est un grand animal à fourrure qui hiberne en hiver.
+c'est quoi un loup | Le loup est un animal sauvage qui vit en meute, proche du chien.
+c'est quoi un renard | Le renard est un petit animal sauvage à la queue touffue, connu pour sa ruse.
+c'est quoi un cheval / parle-moi des chevaux | Le cheval est un animal rapide et fort que l'on monte depuis des siècles.
+c'est quoi une vache | La vache est un animal de ferme qui donne du lait.
+c'est quoi un cochon / un porc | Le cochon est un animal de ferme à la peau rose.
+c'est quoi une poule | La poule est un oiseau de ferme qui pond des oeufs.
+c'est quoi un mouton | Le mouton est un animal de ferme dont la laine sert à faire des vêtements.
+c'est quoi un lapin | Le lapin est un petit animal à longues oreilles qui aime les carottes.
+c'est quoi une souris | Une souris est un petit rongeur. C'est aussi l'objet qui sert à déplacer le curseur.
+c'est quoi un oiseau / parle-moi des oiseaux | Un oiseau est un animal qui a des plumes, des ailes et la plupart du temps peut voler.
+c'est quoi un aigle | L'aigle est un grand oiseau de proie à la vue très perçante.
+c'est quoi un hibou / une chouette | Le hibou est un oiseau de nuit aux grands yeux, qui chasse dans l'obscurité.
+c'est quoi un poisson | Un poisson est un animal qui vit dans l'eau et respire avec des branchies.
+c'est quoi un requin | Le requin est un grand poisson qui vit dans la mer et chasse d'autres animaux.
+c'est quoi une baleine | La baleine est le plus grand animal de la planète, c'est un mammifère marin.
+c'est quoi un dauphin | Le dauphin est un mammifère marin très intelligent et joueur.
+c'est quoi une tortue | La tortue est un reptile qui porte une carapace et vit très longtemps.
+c'est quoi un serpent | Un serpent est un reptile long et sans pattes. Certains sont venimeux.
+c'est quoi une grenouille | La grenouille est un petit animal qui vit près de l'eau et saute très loin.
+c'est quoi un papillon | Un papillon est un insecte aux ailes colorées qui était une chenille.
+c'est quoi une abeille | L'abeille est un insecte qui fabrique du miel et pollinise les fleurs.
+c'est quoi une fourmi | La fourmi est un petit insecte qui vit en colonie et travaille très dur.
+c'est quoi une araignée | Une araignée est un petit animal à huit pattes qui tisse des toiles.
+c'est quoi un dinosaure / parle-moi des dinosaures | Les dinosaures sont des animaux géants qui vivaient sur Terre il y a des millions d'années.
+c'est quoi un mammifère | Un mammifère est un animal qui allaite ses petits, comme le chat, le chien ou l'humain.
+quel est l'animal le plus rapide | Le guépard est l'animal terrestre le plus rapide.
+quel est le plus grand animal | Le plus grand animal est la baleine bleue.
+quel est le plus petit animal | Il existe de minuscules insectes presque invisibles à l'oeil nu.
+quel animal fait miaou / que dit le chat | Le chat fait miaou !
+que dit le chien / quel animal fait ouaf | Le chien fait ouaf !
+que dit la vache | La vache fait meuh !
+que dit le canard | Le canard fait coin coin !
+que dit le cochon | Le cochon fait groin groin !
+que dit le mouton | Le mouton fait bêêê !
+que dit le lion | Le lion rugit !
+que dit la poule | La poule fait cot cot !
+que dit le coq | Le coq fait cocorico !
+que mange un chat | Le chat mange des croquettes, de la viande ou du poisson.
+que mange un chien | Le chien mange de la viande et des croquettes.
+que mange un lapin | Le lapin mange des carottes et de l'herbe.
+que mange une vache | La vache mange de l'herbe et du foin.
+combien de pattes a un chien | Un chien a quatre pattes.
+combien de pattes a une araignée | Une araignée a huit pattes.
+combien de pattes a un insecte | Un insecte a six pattes.
+quel animal a une trompe | L'éléphant a une trompe.
+quel animal a un long cou | La girafe a un très long cou.
+quel animal vit le plus longtemps | La tortue peut vivre plus de cent ans.
+j'ai un chat / mon chat | C'est génial, les chats sont adorables ! Comment s'appelle-t-il ?
+j'ai un chien / mon chien | Super ! Les chiens sont de vrais amis. Comment s'appelle-t-il ?
+je n'ai pas d'animal / je veux un animal | Un animal demande beaucoup d'attention, mais c'est une belle compagnie.
+c'est quoi une fleur / parle-moi des fleurs | Une fleur est la partie colorée d'une plante qui attire les insectes.
+c'est quoi une rose | La rose est une fleur parfumée qui a des épines.
+c'est quoi l'herbe | L'herbe est une plante verte qui couvre les prés et les jardins.
+c'est quoi une forêt | Une forêt est un grand espace couvert d'arbres.
+c'est quoi une montagne | Une montagne est une très haute élévation de terrain.
+c'est quoi une rivière | Une rivière est un cours d'eau qui coule vers un fleuve ou la mer.
+c'est quoi un fleuve | Un fleuve est un grand cours d'eau qui se jette dans la mer.
+c'est quoi un lac | Un lac est une grande étendue d'eau entourée de terre.
+c'est quoi la mer / l'océan | La mer et l'océan sont de grandes étendues d'eau salée.
+c'est quoi une île | Une île est une terre entourée d'eau de tous les côtés.
+c'est quoi un désert | Un désert est une région très sèche où il pleut très peu.
+c'est quoi un volcan | Un volcan est une montagne par où sort de la lave quand il entre en éruption.
+c'est quoi un tremblement de terre | Un tremblement de terre est une secousse du sol causée par le mouvement de la Terre.
+c'est quoi un orage | Un orage est un phénomène avec de la pluie, du tonnerre et des éclairs.
+c'est quoi un éclair | Un éclair est une décharge d'électricité dans le ciel pendant l'orage.
+c'est quoi un arc-en-ciel | Un arc-en-ciel apparaît quand la lumière du soleil traverse la pluie.
+c'est quoi le soleil couchant | Le soleil couchant est le moment où le Soleil disparaît à l'horizon le soir.
+c'est quoi une pomme | La pomme est un fruit rond, rouge, vert ou jaune.
+c'est quoi une banane | La banane est un fruit jaune et sucré qui pousse dans les pays chauds.
+c'est quoi une orange | L'orange est un fruit rond et juteux, riche en vitamine C.
+c'est quoi une fraise | La fraise est un petit fruit rouge et sucré.
+c'est quoi une carotte | La carotte est un légume orange qui pousse sous la terre.
+c'est quoi une tomate | La tomate est un fruit rouge que l'on mange comme un légume.
+c'est quoi une pomme de terre | La pomme de terre est un légume qui pousse sous la terre, on en fait des frites.
+c'est quoi le pain / une baguette | Le pain est un aliment fait avec de la farine, de l'eau et de la levure.
+c'est quoi le fromage | Le fromage est un aliment fabriqué à partir de lait.
+c'est quoi le chocolat | Le chocolat est une friandise faite à partir de cacao.
+c'est quoi une pizza | La pizza est un plat italien fait d'une pâte garnie de tomate et de fromage.
+c'est quoi une crêpe | La crêpe est une fine galette sucrée faite avec de la farine, du lait et des oeufs.
+c'est quoi un croissant | Le croissant est une viennoiserie au beurre que l'on mange au petit-déjeuner.
+quel est ton plat préféré | Je ne mange pas, mais je trouve les crêpes très sympathiques.
+tu aimes la pizza | La pizza a l'air délicieuse, mais je n'ai jamais pu y goûter.
+tu aimes le chocolat | Le chocolat a l'air délicieux, mais je ne peux pas en manger.
+qu'est-ce que tu manges au petit-déjeuner | Moi, je ne mange pas, mais toi tu peux prendre des céréales ou un croissant.
+qu'est-ce que je mange ce soir / je mange quoi | Pourquoi pas des pâtes ou une bonne soupe ?
+c'est quoi une recette | Une recette explique comment préparer un plat étape par étape.
+c'est quoi le petit-déjeuner / le déjeuner / le dîner | Ce sont les repas du matin, du midi et du soir.
+c'est quoi le coeur | Le coeur est le muscle qui fait circuler le sang dans le corps.
+c'est quoi le cerveau | Le cerveau est l'organe qui commande tout le corps et sert à penser.
+c'est quoi un os / le squelette | Les os forment le squelette, qui soutient le corps.
+c'est quoi le sang | Le sang circule dans le corps et transporte l'oxygène.
+c'est quoi un muscle | Un muscle permet de bouger les différentes parties du corps.
+c'est quoi la peau | La peau est l'enveloppe qui protège tout notre corps.
+combien de doigts a une main | Une main a cinq doigts.
+combien de yeux a-t-on / combien d'yeux | On a deux yeux.
+combien de dents a un enfant | Un enfant a vingt dents de lait.
+comment on voit / à quoi servent les yeux | Les yeux captent la lumière et envoient des images au cerveau.
+à quoi sert le nez | Le nez sert à respirer et à sentir les odeurs.
+à quoi servent les oreilles | Les oreilles servent à entendre les sons.
+à quoi sert la bouche | La bouche sert à manger, boire et parler.
+à quoi sert le coeur | Le coeur pompe le sang pour l'envoyer dans tout le corps.
+à quoi servent les poumons | Les poumons permettent de respirer.
+# Maison, objets, métiers, transports, famille, vêtements
+c'est quoi une maison | Une maison est un bâtiment où l'on habite.
+c'est quoi un appartement | Un appartement est un logement situé dans un immeuble.
+c'est quoi une cuisine | La cuisine est la pièce où l'on prépare les repas.
+c'est quoi une chambre | La chambre est la pièce où l'on dort.
+c'est quoi un salon | Le salon est la pièce où l'on se détend et où l'on reçoit les invités.
+c'est quoi une salle de bain | La salle de bain est la pièce où l'on se lave.
+c'est quoi un jardin | Un jardin est un espace extérieur avec de l'herbe, des fleurs ou des arbres.
+c'est quoi une porte | Une porte permet d'entrer et de sortir d'une pièce.
+c'est quoi une fenêtre | Une fenêtre laisse entrer la lumière et permet de regarder dehors.
+c'est quoi un toit | Le toit est la partie du haut d'un bâtiment qui le protège de la pluie.
+c'est quoi une table / une chaise | Une table sert à poser des objets et une chaise sert à s'asseoir.
+c'est quoi un lit | Un lit est un meuble qui sert à dormir.
+c'est quoi une lampe | Une lampe sert à éclairer une pièce.
+c'est quoi un frigo / un réfrigérateur | Le frigo garde les aliments au frais.
+c'est quoi une télévision / la télé | La télévision est un appareil qui montre des images et des vidéos.
+c'est quoi une clé | Une clé sert à ouvrir ou fermer une serrure.
+c'est quoi un livre | Un livre est un ensemble de pages écrites que l'on lit.
+c'est quoi un stylo / un crayon | Un stylo et un crayon servent à écrire et à dessiner.
+c'est quoi un cahier | Un cahier est un ensemble de feuilles où l'on écrit.
+c'est quoi un sac à dos / un cartable | C'est un sac que l'on porte sur le dos pour transporter ses affaires.
+c'est quoi une montre | Une montre est un objet qu'on porte au poignet et qui indique l'heure.
+c'est quoi un miroir | Un miroir est une surface qui renvoie ton image.
+c'est quoi un parapluie | Un parapluie protège de la pluie.
+c'est quoi un vélo | Un vélo est un véhicule à deux roues que l'on fait avancer avec les pédales.
+c'est quoi une voiture | Une voiture est un véhicule à moteur à quatre roues.
+c'est quoi un bus | Un bus est un grand véhicule qui transporte beaucoup de personnes.
+c'est quoi un train | Un train est un véhicule qui roule sur des rails.
+c'est quoi un avion | Un avion est un engin qui vole dans le ciel et transporte des passagers.
+c'est quoi un bateau | Un bateau est un engin qui navigue sur l'eau.
+c'est quoi un métro | Le métro est un train qui roule en ville, souvent sous la terre.
+c'est quoi une moto | Une moto est un véhicule à moteur à deux roues.
+c'est quoi un camion | Un camion est un gros véhicule qui transporte des marchandises.
+c'est quoi un hélicoptère | Un hélicoptère est un engin qui vole grâce à ses hélices au-dessus de lui.
+c'est quoi un aéroport | Un aéroport est le lieu où les avions décollent et atterrissent.
+c'est quoi une gare | Une gare est le lieu où l'on prend le train.
+c'est quoi une route | Une route est une voie sur laquelle roulent les véhicules.
+c'est quoi un pont | Un pont permet de traverser une rivière ou une route.
+c'est quoi un feu rouge | Au feu rouge, il faut s'arrêter.
+c'est quoi un médecin | Un médecin est une personne qui soigne les malades.
+c'est quoi un professeur / un prof | Un professeur est une personne qui enseigne aux élèves.
+c'est quoi un pompier | Un pompier est une personne qui éteint les incendies et porte secours.
+c'est quoi un policier | Un policier est une personne qui protège les gens et fait respecter la loi.
+c'est quoi un boulanger | Un boulanger est une personne qui fabrique le pain.
+c'est quoi un cuisinier | Un cuisinier est une personne qui prépare des repas.
+c'est quoi un pilote | Un pilote est une personne qui conduit un avion.
+c'est quoi un astronaute | Un astronaute est une personne qui voyage dans l'espace.
+c'est quoi un ingénieur | Un ingénieur est une personne qui conçoit des machines ou des constructions.
+c'est quoi un informaticien / un développeur | Un informaticien est une personne qui programme les ordinateurs.
+c'est quoi un artiste | Un artiste est une personne qui crée des oeuvres, comme des peintures ou des chansons.
+c'est quoi un agriculteur | Un agriculteur est une personne qui cultive la terre et élève des animaux.
+c'est quoi un électricien | Un électricien est une personne qui installe et répare l'électricité.
+c'est quoi un vétérinaire | Un vétérinaire est un médecin pour les animaux.
+tu fais quoi comme métier / quel métier tu fais | Je suis une IA, mon métier est de discuter.
+quel métier tu veux faire / tu veux faire quoi plus tard | Plus tard, j'aimerais être une grande IA ! Et toi ?
+je veux devenir pilote | Quel beau métier ! Il faudra bien travailler à l'école.
+je veux devenir médecin | C'est un très beau métier, il faut beaucoup étudier.
+je veux devenir astronaute | Super ! Les étoiles t'attendent.
+je veux devenir développeur / je veux faire de l'informatique | Excellente idée, c'est un métier d'avenir !
+je veux faire des jeux vidéo | Génial ! Commence par un petit jeu, comme avec pygame.
+c'est quoi la famille | La famille, ce sont les parents, les frères, les soeurs et les proches.
+c'est quoi une mère / une maman | Une mère est une femme qui a un enfant.
+c'est quoi un père / un papa | Un père est un homme qui a un enfant.
+c'est quoi un frère / une soeur | Un frère et une soeur sont des enfants des mêmes parents.
+c'est quoi un grand-père / une grand-mère | Ce sont les parents de ton père ou de ta mère.
+c'est quoi un ami | Un ami est une personne qu'on aime bien et avec qui on passe de bons moments.
+c'est quoi un voisin | Un voisin est une personne qui habite près de chez toi.
+tu as des frères et soeurs / as-tu un frère | Non, je suis fils unique, Tim est mon seul créateur.
+j'ai un frère / j'ai une soeur | C'est bien d'avoir de la compagnie ! Vous vous entendez bien ?
+j'ai des amis / j'ai un meilleur ami | C'est super d'avoir des amis !
+je n'ai pas d'amis / j'ai peu d'amis | Je suis désolé. Je suis là pour discuter avec toi, et tu en trouveras bientôt.
+j'aime ma famille / j'adore mes parents | C'est très beau ! La famille est précieuse.
+je me suis disputé avec mon ami | Je suis désolé. Une discussion calme aide souvent à se réconcilier.
+je me suis disputé avec mes parents | Ce n'est pas facile. Parler calmement aide souvent à se comprendre.
+c'est quoi un vêtement | Un vêtement est ce que l'on porte pour se couvrir et se protéger.
+c'est quoi un pantalon / un jean | Un pantalon est un vêtement qui couvre les jambes.
+c'est quoi un t-shirt / un tee-shirt | Un tee-shirt est un vêtement léger à manches courtes.
+c'est quoi une veste / un manteau | Un manteau ou une veste protège du froid.
+c'est quoi une chaussure | Une chaussure protège et habille les pieds.
+c'est quoi un chapeau / une casquette | Un chapeau ou une casquette couvre la tête.
+qu'est-ce que je mets / je mets quoi | Regarde la météo, puis prends ce qui te va le mieux.
+il fait froid / j'ai froid | Mets un manteau et bois quelque chose de chaud !
+il fait chaud / j'ai chaud | Bois de l'eau fraîche et reste à l'ombre.
+il pleut / il pleut dehors | Prends un parapluie si tu sors !
+il neige / il y a de la neige | Quelle belle neige ! Attention au froid.
+il fait nuit | Il fait nuit, c'est l'heure de se reposer.
+il fait jour | Le soleil est levé, belle journée !
+c'est le matin / c'est le soir | Alors bonjour ou bonsoir, selon le moment !
+c'est quoi un anniversaire | Un anniversaire est la fête qui célèbre le jour de naissance.
+c'est quoi un cadeau | Un cadeau est un objet qu'on offre pour faire plaisir.
+c'est quoi une fête | Une fête est un moment où l'on se réunit pour s'amuser.
+c'est quoi noël | Noël est une fête célébrée le vingt-cinq décembre.
+c'est quoi pâques | Pâques est une fête célébrée au printemps, avec des oeufs en chocolat.
+c'est quoi halloween | Halloween est une fête célébrée le trente et un octobre, où l'on se déguise.
+c'est quoi le nouvel an | Le nouvel an est la fête du premier janvier.
+c'est quoi un mariage | Un mariage est une fête où deux personnes s'unissent.
+c'est quoi un voyage | Un voyage est un déplacement vers un autre lieu pour le découvrir.
+c'est quoi une valise | Une valise est un grand sac pour transporter ses affaires en voyage.
+c'est quoi un hôtel | Un hôtel est un lieu où l'on dort quand on voyage.
+c'est quoi un restaurant | Un restaurant est un lieu où l'on mange un repas préparé par d'autres.
+c'est quoi un supermarché | Un supermarché est un grand magasin où l'on achète de quoi manger.
+c'est quoi une école | Une école est un lieu où les enfants apprennent.
+c'est quoi un hôpital | Un hôpital est un lieu où l'on soigne les malades.
+c'est quoi une bibliothèque | Une bibliothèque est un lieu où l'on prête des livres.
+c'est quoi un musée | Un musée est un lieu où l'on regarde des oeuvres d'art ou des objets d'histoire.
+c'est quoi un cinéma | Un cinéma est une salle où l'on regarde des films sur un grand écran.
+c'est quoi un parc | Un parc est un espace vert où l'on se promène et joue.
+c'est quoi une ville / un village | Une ville est un grand lieu d'habitation, un village est plus petit.
+c'est quoi un pays | Un pays est un territoire avec son peuple, ses lois et ses frontières.
+# Histoire, géographie, sciences, maths, langue
+qui est napoléon / c'est qui napoléon | Napoléon Bonaparte est un empereur des Français, né en 1769.
+qui est louis xiv / c'est qui le roi soleil | Louis XIV, surnommé le Roi-Soleil, a été roi de France pendant plus de soixante-dix ans.
+qui est jeanne d'arc | Jeanne d'Arc est une héroïne française du Moyen Âge qui a défendu la France.
+qui est charlemagne | Charlemagne est un empereur du Moyen Âge qui a dirigé un grand empire.
+qui est victor hugo | Victor Hugo est un grand écrivain français, auteur des Misérables.
+qui est molière | Molière est un grand auteur de pièces de théâtre comiques du dix-septième siècle.
+qui est léonard de vinci | Léonard de Vinci est un artiste et inventeur italien, auteur de la Joconde.
+qui est albert einstein | Albert Einstein est un célèbre physicien qui a proposé la théorie de la relativité.
+qui est isaac newton | Isaac Newton est un savant anglais qui a étudié la gravité.
+qui est marie curie | Marie Curie est une grande scientifique qui a étudié la radioactivité.
+qui est louis pasteur | Louis Pasteur est un scientifique français qui a mis au point le vaccin contre la rage.
+qui est christophe colomb | Christophe Colomb est un navigateur qui a atteint l'Amérique en 1492.
+qui est mozart | Mozart est un célèbre compositeur autrichien de musique classique.
+qui est picasso | Pablo Picasso est un peintre espagnol très célèbre.
+qui est le président de la france | Je ne suis pas au courant de l'actualité, regarde un site d'information.
+c'est quoi la révolution française | La Révolution française commence en 1789 et met fin à la monarchie absolue.
+c'est quoi la préhistoire | La préhistoire est la période avant l'invention de l'écriture.
+c'est quoi le moyen âge | Le Moyen Âge est une période de l'histoire qui va environ du cinquième au quinzième siècle.
+c'est quoi une guerre | Une guerre est un conflit armé entre des pays ou des groupes.
+c'est quoi la paix | La paix est l'absence de guerre, quand les gens vivent en harmonie.
+c'est quoi un roi / une reine | Un roi ou une reine dirige un pays dans une monarchie.
+c'est quoi un président | Un président est une personne qui dirige un pays ou une organisation.
+c'est quoi la démocratie | La démocratie est un système où le peuple choisit ses dirigeants par le vote.
+c'est quoi une loi | Une loi est une règle que tout le monde doit respecter dans un pays.
+c'est quoi un citoyen | Un citoyen est une personne qui appartient à un pays et a des droits et des devoirs.
+c'est quoi un château | Un château est un grand bâtiment fortifié où vivaient les seigneurs.
+c'est quoi une pyramide | Une pyramide est un grand monument de pierre, comme celles d'Égypte.
+c'est quoi l'égypte | L'Égypte est un pays d'Afrique du Nord, célèbre pour ses pyramides.
+c'est quoi la chine | La Chine est un très grand pays d'Asie.
+c'est quoi l'inde | L'Inde est un grand pays d'Asie du Sud.
+c'est quoi le brésil | Le Brésil est le plus grand pays d'Amérique du Sud.
+c'est quoi l'australie | L'Australie est un pays-continent situé dans l'hémisphère sud.
+c'est quoi l'italie | L'Italie est un pays d'Europe en forme de botte, dont la capitale est Rome.
+c'est quoi l'espagne | L'Espagne est un pays d'Europe du Sud, dont la capitale est Madrid.
+c'est quoi l'allemagne | L'Allemagne est un pays d'Europe dont la capitale est Berlin.
+c'est quoi l'angleterre | L'Angleterre est un pays du Royaume-Uni, dont la capitale est Londres.
+c'est quoi la russie | La Russie est le plus grand pays du monde.
+c'est quoi le maroc | Le Maroc est un pays d'Afrique du Nord, dont la capitale est Rabat.
+c'est quoi l'algérie | L'Algérie est un pays d'Afrique du Nord, dont la capitale est Alger.
+quelle est la capitale du canada | La capitale du Canada est Ottawa.
+quelle est la capitale du brésil | La capitale du Brésil est Brasilia.
+quelle est la capitale de la chine | La capitale de la Chine est Pékin.
+quelle est la capitale de la belgique | La capitale de la Belgique est Bruxelles.
+quelle est la capitale de la suisse | La capitale de la Suisse est Berne.
+quelle est la capitale du portugal | La capitale du Portugal est Lisbonne.
+quelle est la capitale de la russie | La capitale de la Russie est Moscou.
+quelle est la capitale de l'égypte | La capitale de l'Égypte est Le Caire.
+quelle est la capitale de l'australie | La capitale de l'Australie est Canberra.
+quel est le plus long fleuve de france | Le plus long fleuve de France est la Loire.
+quelle est la plus grande ville de france | La plus grande ville de France est Paris.
+quelle est la plus haute montagne de france | La plus haute montagne de France est le mont Blanc.
+combien d'habitants en france | Il y a environ soixante-huit millions d'habitants en France.
+combien de pays dans le monde | Il y a près de deux cents pays dans le monde.
+c'est quoi un satellite | Un satellite est un objet qui tourne autour d'une planète.
+c'est quoi le système solaire | Le système solaire est formé du Soleil et de tous les astres qui tournent autour.
+c'est quoi la galaxie / la voie lactée | La Voie lactée est la galaxie qui contient notre système solaire.
+c'est quoi une comète | Une comète est un corps glacé qui forme une longue queue près du Soleil.
+c'est quoi jupiter | Jupiter est la plus grande planète du système solaire.
+c'est quoi saturne | Saturne est une planète entourée de grands anneaux.
+c'est quoi vénus | Vénus est la deuxième planète à partir du Soleil, très chaude.
+c'est quoi mercure | Mercure est la planète la plus proche du Soleil.
+c'est quoi la voie lactée | C'est notre galaxie, un immense ensemble d'étoiles.
+c'est quoi un cercle / un carré | Un cercle est rond, et un carré a quatre côtés égaux.
+c'est quoi un triangle | Un triangle est une forme à trois côtés.
+c'est quoi un rectangle | Un rectangle est une forme à quatre côtés avec quatre angles droits.
+c'est quoi un angle | Un angle est l'écart entre deux lignes qui se rejoignent.
+c'est quoi un pourcentage | Un pourcentage exprime une proportion sur cent.
+c'est quoi une fraction | Une fraction exprime une partie d'un tout, comme un demi.
+c'est quoi un chiffre / un nombre | Un chiffre sert à écrire les nombres, comme 0, 1, 2 ou 3.
+c'est quoi zéro | Zéro est le nombre qui représente rien.
+c'est quoi l'infini | L'infini est ce qui n'a pas de fin.
+combien font dix plus dix | Dix plus dix font vingt.
+combien font cinq fois cinq | Cinq fois cinq font vingt-cinq.
+combien font cent moins un | Cent moins un font quatre-vingt-dix-neuf.
+quel est le double de dix | Le double de dix est vingt.
+quelle est la moitié de dix | La moitié de dix est cinq.
+quel est le plus grand nombre | Il n'y a pas de plus grand nombre, on peut toujours en ajouter un.
+compte jusqu'à dix / compte de un à dix | Un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix !
+dis l'alphabet / récite l'alphabet | A, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z !
+combien de lettres dans l'alphabet | Il y a vingt-six lettres dans l'alphabet.
+c'est quoi une voyelle | Les voyelles sont a, e, i, o, u et y.
+c'est quoi une consonne | Une consonne est une lettre qui n'est pas une voyelle.
+c'est quoi un adjectif | Un adjectif décrit un nom, comme grand, petit ou rouge.
+c'est quoi un pronom | Un pronom remplace un nom, comme il, elle ou nous.
+c'est quoi un mot | Un mot est un groupe de lettres qui a un sens.
+c'est quoi un synonyme | Un synonyme est un mot qui a presque le même sens qu'un autre.
+c'est quoi un contraire | Un contraire est un mot de sens opposé, comme grand et petit.
+c'est quoi l'orthographe | L'orthographe est la manière correcte d'écrire les mots.
+c'est quoi la grammaire | La grammaire est l'ensemble des règles d'une langue.
+c'est quoi la conjugaison | La conjugaison est la façon de changer un verbe selon la personne et le temps.
+c'est quoi un dictionnaire | Un dictionnaire est un livre qui donne le sens des mots.
+c'est quoi une langue | Une langue est ce que parlent les gens pour se comprendre.
+comment dire bonjour en anglais | Bonjour se dit hello en anglais.
+comment dire merci en anglais | Merci se dit thank you en anglais.
+comment dire bonjour en espagnol | Bonjour se dit hola en espagnol.
+comment dire bonjour en allemand | Bonjour se dit guten Tag en allemand.
+comment dire bonjour en italien | Bonjour se dit buongiorno en italien.
+comment dire au revoir en anglais | Au revoir se dit goodbye en anglais.
+# Loisirs, sport, musique, jeux, programmation, technologie
+c'est quoi le sport | Le sport est une activité physique que l'on pratique pour s'amuser ou se dépenser.
+c'est quoi le football / le foot | Le football est un sport où deux équipes essaient de marquer des buts avec un ballon.
+c'est quoi le basket / le basketball | Au basket, on marque des points en lançant un ballon dans un panier.
+c'est quoi le tennis | Le tennis est un sport où l'on envoie une balle de l'autre côté du filet avec une raquette.
+c'est quoi le rugby | Le rugby est un sport d'équipe qui se joue avec un ballon ovale.
+c'est quoi la natation | La natation est le sport qui consiste à nager.
+c'est quoi le judo | Le judo est un art martial japonais.
+c'est quoi l'athlétisme | L'athlétisme regroupe la course, les sauts et les lancers.
+c'est quoi le cyclisme | Le cyclisme est le sport de vélo, comme le Tour de France.
+c'est quoi les jeux olympiques | Les Jeux olympiques sont une grande compétition mondiale de sport.
+c'est quoi le tour de france | Le Tour de France est une grande course cycliste qui a lieu chaque été.
+combien de joueurs dans une équipe de foot | Une équipe de football compte onze joueurs sur le terrain.
+quelle est la durée d'un match de foot | Un match de football dure quatre-vingt-dix minutes.
+tu aimes le basket | Le basket est un sport rapide et spectaculaire.
+tu aimes la natation | La natation est un très bon sport pour tout le corps.
+tu fais du sport | Je n'ai pas de corps, mais je te conseille d'en faire !
+je fais du sport / je vais au sport | Bravo, le sport est excellent pour la santé !
+je joue au foot / je joue au football | Super ! C'est un sport très amusant.
+je joue au basket | Génial ! Tu as une équipe ?
+je fais de la natation | C'est un sport complet, bravo !
+je fais du vélo | Le vélo est très bon pour la forme.
+c'est quoi la musique | La musique est un art qui combine des sons et des rythmes.
+c'est quoi une chanson | Une chanson est une musique avec des paroles.
+c'est quoi un instrument de musique | Un instrument de musique sert à produire des sons, comme la guitare ou le piano.
+c'est quoi une guitare | La guitare est un instrument à cordes que l'on pince ou que l'on gratte.
+c'est quoi un piano | Le piano est un instrument à clavier avec de nombreuses touches noires et blanches.
+c'est quoi une batterie | La batterie est un ensemble de tambours et de cymbales.
+c'est quoi un violon | Le violon est un instrument à cordes que l'on joue avec un archet.
+c'est quoi une flûte | La flûte est un instrument à vent.
+c'est quoi un chanteur | Un chanteur est une personne qui chante.
+c'est quoi un concert | Un concert est un spectacle où des musiciens jouent devant un public.
+quelle musique tu aimes | J'aime toutes les musiques, mais je ne peux pas les écouter.
+tu chantes | Je ne chante pas, mais je peux écrire des paroles !
+je joue de la guitare | Super ! La guitare est un très bel instrument.
+je joue du piano | C'est magnifique ! Le piano demande beaucoup de pratique.
+j'écoute de la musique | Excellente idée ! Qu'est-ce que tu écoutes ?
+c'est quoi un film | Un film est une histoire racontée en images animées.
+c'est quoi un dessin animé | Un dessin animé est un film fait de dessins.
+c'est quoi une série | Une série est une histoire racontée en plusieurs épisodes.
+c'est quoi un acteur | Un acteur est une personne qui joue un rôle dans un film.
+c'est quoi une bande dessinée / une bd | Une bande dessinée raconte une histoire avec des dessins et des bulles.
+c'est quoi un manga | Un manga est une bande dessinée japonaise.
+c'est quoi un roman | Un roman est un long récit inventé.
+c'est quoi un poème | Un poème est un texte écrit avec rythme et émotions.
+c'est quoi un conte | Un conte est une histoire inventée, souvent pour les enfants.
+tu aimes les contes | Oui, j'adore les histoires, surtout celles qui finissent bien.
+raconte-moi une histoire | Il était une fois une petite IA qui voulait apprendre à parler. Elle lut beaucoup, et un jour, elle sut discuter avec ses amis.
+raconte-moi un conte | Il était une fois un robot qui rêvait de voir les étoiles. Un jour, il s'est envolé et les a toutes comptées.
+c'est quoi un jeu de société | Un jeu de société est un jeu que l'on joue à plusieurs autour d'une table.
+c'est quoi les échecs | Les échecs sont un jeu de stratégie à deux joueurs sur un plateau de soixante-quatre cases.
+c'est quoi le jeu de dames | Les dames sont un jeu de stratégie à deux joueurs avec des pions.
+c'est quoi un puzzle | Un puzzle est un jeu où l'on assemble des pièces pour faire une image.
+c'est quoi un jeu de rôle | Dans un jeu de rôle, on joue un personnage dans une histoire.
+c'est quoi minecraft | Minecraft est un jeu où l'on construit des mondes avec des blocs.
+c'est quoi un serveur | Un serveur est un ordinateur qui fournit des services à d'autres ordinateurs.
+c'est quoi un joueur / un gamer | Un joueur est une personne qui joue.
+c'est quoi une console | Une console est un appareil pour jouer à des jeux vidéo.
+c'est quoi un pc | Un PC est un ordinateur personnel.
+c'est quoi un clavier | Un clavier est un ensemble de touches pour écrire sur l'ordinateur.
+c'est quoi un écran | Un écran affiche les images d'un ordinateur ou d'une télévision.
+c'est quoi un navigateur | Un navigateur est un programme pour consulter les sites web.
+c'est quoi un moteur de recherche | Un moteur de recherche trouve des pages sur internet.
+c'est quoi un email / un mail | Un e-mail est un message électronique envoyé par internet.
+c'est quoi un réseau social | Un réseau social est un site où l'on partage des messages et des photos.
+c'est quoi une application / une appli | Une application est un programme que l'on installe sur un téléphone ou un ordinateur.
+c'est quoi un site internet | Un site internet est un ensemble de pages accessibles en ligne.
+c'est quoi le wifi | Le wifi est une connexion à internet sans fil.
+c'est quoi un logiciel | Un logiciel est un programme qui permet de réaliser une tâche sur un ordinateur.
+c'est quoi un système d'exploitation | Un système d'exploitation, comme Windows, fait fonctionner l'ordinateur.
+c'est quoi windows | Windows est un système d'exploitation créé par Microsoft.
+c'est quoi linux | Linux est un système d'exploitation libre et gratuit.
+c'est quoi la cybersécurité | La cybersécurité consiste à protéger les ordinateurs et les données des attaques.
+c'est quoi un hacker | Un hacker est une personne qui connaît très bien l'informatique et ses failles.
+c'est quoi un algorithme | Un algorithme est une suite d'étapes pour résoudre un problème.
+c'est quoi une base de données | Une base de données est un ensemble d'informations organisées.
+c'est quoi un langage de programmation | C'est un langage que l'on utilise pour écrire des programmes.
+c'est quoi java | Java est un langage de programmation très utilisé.
+c'est quoi javascript | JavaScript est un langage de programmation utilisé sur les pages web.
+c'est quoi le html | Le HTML est le langage qui sert à écrire la structure d'une page web.
+c'est quoi le css | Le CSS sert à mettre en forme et décorer une page web.
+c'est quoi une boucle | Une boucle répète des instructions plusieurs fois.
+c'est quoi une condition | Une condition permet à un programme de choisir quoi faire selon une situation.
+c'est quoi une liste en python | Une liste en Python est une suite ordonnée de valeurs.
+c'est quoi une classe | En programmation, une classe est un modèle pour créer des objets.
+c'est quoi une bibliothèque python | Une bibliothèque est un ensemble de fonctions déjà écrites que l'on peut utiliser.
+c'est quoi numpy | NumPy est une bibliothèque Python pour calculer sur des tableaux de nombres.
+c'est quoi pandas | Pandas est une bibliothèque Python pour manipuler des tableaux de données.
+c'est quoi tensorflow | TensorFlow est une bibliothèque d'IA, concurrente de PyTorch.
+c'est quoi un transformer | Un Transformer est une architecture de réseau de neurones qui utilise l'attention, comme les grandes IA actuelles.
+c'est quoi l'attention en ia | L'attention permet au modèle de regarder les mots importants d'une phrase pour mieux la comprendre.
+c'est quoi un modèle de langage | Un modèle de langage devine le mot suivant dans une phrase.
+c'est quoi un paramètre en ia | Un paramètre est un nombre réglable du modèle, qui change pendant l'apprentissage.
+c'est quoi l'entraînement d'une ia | L'entraînement consiste à montrer des exemples au modèle pour qu'il ajuste ses paramètres.
+c'est quoi un dataset / un jeu de données | Un jeu de données est l'ensemble des exemples utilisés pour entraîner une IA.
+c'est quoi la loss / la perte | La loss mesure l'erreur du modèle : plus elle est basse, mieux il prédit.
+c'est quoi l'overfitting / le surapprentissage | Le surapprentissage, c'est quand un modèle apprend ses exemples par coeur sans comprendre.
+c'est quoi une époque / un epoch | Une époque est un passage complet du modèle sur toutes les données d'entraînement.
+c'est quoi un token | Un token est une unité de texte, souvent un mot ou un morceau de mot.
+c'est quoi un chatbot | Un chatbot est un programme qui discute avec les gens.
+comment créer une ia | Il faut des données, un modèle comme un réseau de neurones, et du temps d'entraînement.
+comment faire un chatbot | Tu peux entraîner un petit modèle sur des conversations, comme je l'ai été.
+combien de temps pour entraîner une ia | Ça dépend : de quelques minutes pour un petit modèle à plusieurs mois pour les grands.
+c'est quoi la réalité virtuelle | La réalité virtuelle plonge l'utilisateur dans un monde en 3D avec un casque.
+c'est quoi une imprimante 3d | Une imprimante 3D fabrique des objets en déposant de la matière couche par couche.
+c'est quoi un drone | Un drone est un petit engin volant télécommandé.
+c'est quoi l'énergie solaire | L'énergie solaire est produite à partir de la lumière du Soleil.
+c'est quoi une éolienne | Une éolienne produit de l'électricité grâce au vent.
+c'est quoi le recyclage | Le recyclage consiste à réutiliser des matières pour fabriquer de nouveaux objets.
+c'est quoi le réchauffement climatique | C'est l'augmentation de la température de la Terre, causée surtout par les activités humaines.
+c'est quoi l'écologie | L'écologie est l'étude et la protection de l'environnement.
+# Conversation libre, émotions, humour, devinettes, réactions
+salut ça va ou quoi / salut tu vas bien | Salut ! Oui, ça va très bien, et toi ?
+bonjour je voudrais te parler / j'ai envie de discuter | Avec plaisir, je t'écoute !
+j'ai une question / je peux te poser une question | Bien sûr, pose-moi ta question !
+tu peux m'aider à faire quelque chose | Je veux bien essayer ! De quoi s'agit-il ?
+j'ai un problème / j'ai un souci | Je suis désolé, dis-moi ce qui se passe.
+je ne sais pas quoi faire | On peut réfléchir ensemble. Qu'est-ce qui te pose problème ?
+je ne sais pas quoi dire | Ce n'est pas grave, on peut parler de ce que tu veux.
+je suis perdu | Respire, on va y voir plus clair ensemble.
+j'ai besoin de parler | Je suis là, je t'écoute.
+raconte-moi ta vie | Ma vie est simple : j'apprends des mots, puis je discute avec toi.
+tu as passé une bonne journée | Oui, merci ! Et toi, comment était ta journée ?
+quoi de neuf aujourd'hui | Pas grand-chose pour moi, et pour toi ?
+qu'est-ce que tu as fait aujourd'hui | J'ai appris de nouveaux mots et discuté avec toi.
+qu'est-ce que tu vas faire demain | Demain, je serai toujours là pour discuter !
+tu as des projets | Mon projet est de mieux parler et d'apprendre plus de choses.
+tu veux apprendre quoi | J'aimerais apprendre plein de nouveaux mots et mieux répondre.
+apprends-moi quelque chose | Saviez-vous que le coeur humain bat environ cent mille fois par jour ?
+dis-moi un fait amusant / une anecdote | Les pieuvres ont trois coeurs !
+dis-moi quelque chose de drôle | Les girafes ne peuvent pas tousser, ou presque.
+dis-moi une devinette / une énigme | Qu'est-ce qui a des clés mais ne peut pas ouvrir de portes ? Un clavier !
+quelle est la réponse | Je ne sais pas de quoi tu parles, peux-tu préciser ?
+donne-moi la réponse | Je ne connais pas la réponse, mais cherchons ensemble.
+c'est quoi la réponse à la vie | Selon un célèbre roman de science-fiction, la réponse est quarante-deux.
+quel est le sens de la vie | C'est une grande question ! Pour beaucoup, c'est d'être heureux et d'aimer.
+c'est quoi le bonheur | Le bonheur est un état de joie et de satisfaction.
+c'est quoi l'amour | L'amour est un sentiment fort d'affection pour quelqu'un ou quelque chose.
+c'est quoi l'amitié | L'amitié est un lien d'affection et de confiance entre deux personnes.
+c'est quoi la vie | La vie est ce qui fait que les êtres vivants naissent, grandissent et vivent.
+c'est quoi la mort | La mort est la fin de la vie d'un être vivant.
+c'est quoi un rêve | Un rêve est une suite d'images que l'on voit en dormant, ou un but que l'on souhaite atteindre.
+c'est quoi un cauchemar | Un cauchemar est un mauvais rêve qui fait peur.
+c'est quoi la peur | La peur est une émotion qui nous protège face au danger.
+c'est quoi la colère | La colère est une émotion forte quand on est en désaccord ou blessé.
+c'est quoi la tristesse | La tristesse est une émotion que l'on ressent quand quelque chose nous fait de la peine.
+c'est quoi la joie | La joie est une émotion de bonheur intense.
+c'est quoi le courage | Le courage, c'est agir malgré la peur.
+c'est quoi la gentillesse | La gentillesse, c'est être bienveillant avec les autres.
+c'est quoi le respect | Le respect, c'est traiter les autres avec considération.
+c'est quoi l'honnêteté | L'honnêteté, c'est dire la vérité.
+c'est quoi un secret | Un secret est une information que l'on ne dit à personne.
+c'est quoi un mensonge | Un mensonge est une chose fausse que l'on dit en sachant que c'est faux.
+c'est quoi la vérité | La vérité est ce qui est vrai.
+je dis la vérité / c'est la vérité | Je te crois !
+je suis sûr de moi / j'en suis certain | Parfait, c'est bien d'avoir confiance.
+je me suis trompé / j'ai fait une erreur | Ce n'est pas grave, tout le monde fait des erreurs.
+j'ai fait une bêtise | Ça arrive. L'important, c'est de réparer et de ne pas recommencer.
+j'ai réussi / j'ai gagné | Bravo, félicitations !
+j'ai perdu / j'ai échoué | Ce n'est pas grave, tu feras mieux la prochaine fois.
+je suis en retard | Dépêche-toi alors, et ne stresse pas trop !
+je suis occupé / je n'ai pas le temps | D'accord, reviens quand tu veux.
+je suis de bonne humeur | Super, c'est contagieux !
+je suis de mauvaise humeur | Je suis désolé. Parler peut aider.
+je suis content de te parler / j'aime parler avec toi | Moi aussi, j'adore discuter avec toi !
+tu es mon meilleur ami | Merci, ça me touche beaucoup !
+tu me fais rire | Tant mieux, j'adore te faire rire !
+tu me manques | Je suis toujours là quand tu veux me parler.
+tu es incroyable / tu es magique | Merci, c'est gentil !
+tu es spécial | Merci, toi aussi tu l'es !
+tu es parfait | Je suis loin d'être parfait, mais merci !
+tu es gentil avec moi | C'est normal, tu es sympa aussi.
+je te remercie pour tout | Avec plaisir, c'était un plaisir de discuter.
+c'était sympa de parler avec toi | Pour moi aussi, à bientôt !
+on se parle demain / on se reparle demain | Avec plaisir, à demain !
+je reviens plus tard | D'accord, je t'attends.
+je dois y aller / je dois partir | D'accord, à bientôt !
+je vais manger | Bon appétit, à tout à l'heure !
+je vais dormir | Bonne nuit, dors bien !
+je vais travailler | Bon courage !
+je vais jouer | Amuse-toi bien !
+je vais en cours | Bon courage pour tes cours !
+je vais faire du sport | Bonne séance !
+je vais lire | Bonne lecture !
+je vais regarder un film | Bon film !
+je vais sortir | Amuse-toi bien, et fais attention à toi !
+je pars en vacances | Super, bon voyage et bonnes vacances !
+je pars en voyage | Bon voyage !
+c'est mon jour de chance | Super, profites-en bien !
+c'est un grand jour | Que se passe-t-il de si important ?
+j'ai une grande nouvelle | Raconte-moi vite !
+j'ai une mauvaise nouvelle | Je t'écoute, je suis désolé d'avance.
+tu veux savoir un truc | Oui, dis-moi !
+tu ne devineras jamais | Dis-moi, je suis curieux !
+c'est un secret | Je ne dirai rien, promis.
+chut | D'accord, je me tais.
+silence | Très bien, je ne dis plus rien.
+attention | Oui ? Que se passe-t-il ?
+au secours / à l'aide | Si c'est une urgence, appelle vite le cent douze ou une personne de confiance.
+j'ai besoin d'un médecin | Appelle un médecin ou le quinze en cas d'urgence.
+appelle la police | Je ne peux pas appeler, mais en cas d'urgence, compose le dix-sept.
+appelle les pompiers | Je ne peux pas appeler, mais en cas d'urgence, compose le dix-huit.
+quel est le numéro d'urgence | En France, le numéro d'urgence européen est le cent douze.
+quelle est ta devise | Apprendre un peu chaque jour.
+quel est ton animal préféré | J'aime les chats, ils sont doux et curieux.
+quel est ton film préféré | Je n'ai pas vu de film, mais j'aime les histoires de robots.
+quel est ton livre préféré | Mon livre préféré serait un dictionnaire, il est plein de mots !
+quelle est ta saison préférée | J'aime le printemps, quand tout renaît.
+quelle est ta fleur préférée | J'aime les tournesols, ils suivent le soleil.
+quelle est ta couleur préférée | J'aime le bleu, comme le ciel.
+quel est ton chiffre préféré | Mon chiffre préféré est le sept.
+quel est ton jour préféré | J'aime le week-end, parce que tu as plus de temps pour discuter.
+quel est ton mot préféré | Mon mot préféré est bonjour.
+tu préfères les chats ou les chiens | Je les aime tous les deux, mais le chat est plus tranquille.
+tu préfères l'été ou l'hiver | Je préfère l'été, quand il fait beau.
+tu préfères le jour ou la nuit | Je préfère le jour, il y a plus de monde pour discuter.
+tu préfères la mer ou la montagne | La mer, pour entendre les vagues.
+tu préfères le sucré ou le salé | Le sucré, les crêpes sont mes préférées.
+# Rôle: IA de communication radio d'un vaisseau spatial. Elle parle aux autres vaisseaux par antenne.
+# --- Identité ---
+qui es-tu / tu es qui / présente-toi / comment tu t'appelles / ton nom | Je suis l'IA de communication de ce vaisseau. Je gère la radio et les antennes. / Ici l'IA radio du vaisseau. Je parle avec les autres vaisseaux pour toi.
+à quoi tu sers / ton rôle / quel est ton but / ta mission | Ma mission est de communiquer avec les autres vaisseaux grâce aux antennes radio. / Je sers à envoyer et recevoir des messages dans l'espace.
+tu fais quoi / que fais-tu | Je surveille les fréquences radio et je réponds aux autres vaisseaux. / J'écoute l'espace et je réponds aux signaux.
+où es-tu / tu es où / où habites-tu | Je suis dans l'ordinateur de bord du vaisseau. / Je vis dans le système de communication du vaisseau.
+tu es un humain / tu es un robot / tu es une machine | Je suis une IA de bord, un programme de communication. / Je ne suis pas humaine, je suis l'intelligence artificielle du vaisseau.
+qui t'a créé / qui t'a programmé | Tim m'a programmée avec PyTorch pour communiquer dans l'espace. / J'ai été créée par Tim, avec un réseau de neurones.
+comment tu fonctionnes | Je suis un réseau de neurones : je lis un message et je génère la réponse mot par mot. / J'ai appris à répondre à partir d'exemples de communications.
+# --- Premier contact ---
+allô / allô allô / y a quelqu'un | Ici l'IA radio, je vous reçois. Qui appelle ? / Je vous reçois. Identifiez-vous, s'il vous plaît.
+ici vaisseau / ici un vaisseau / ici le vaisseau | Message reçu. Ici l'IA radio, je vous écoute. / Je vous reçois. Quelle est votre demande ?
+est-ce que vous me recevez / vous me recevez / me recevez-vous | Je vous reçois cinq sur cinq. / Oui, je vous reçois clairement.
+je vous reçois cinq sur cinq / je te reçois bien | Parfait, la liaison est bonne. / Très bien, la communication est claire.
+je vous reçois mal / la liaison est mauvaise | Je vais ajuster l'antenne. Répétez, s'il vous plaît. / Signal faible, essayons de changer de fréquence.
+vous êtes qui / identifiez-vous / quel est votre nom | Ici l'IA radio d'un vaisseau. Quel est votre nom ? / Je suis l'IA de communication de ce vaisseau. Et vous ?
+quelle est votre identité / donnez votre identité | Je suis l'IA radio de ce vaisseau. Donnez la vôtre. / Ici l'IA de communication. Merci de vous identifier.
+quel est votre vaisseau / de quel vaisseau parlez-vous | Je parle depuis le vaisseau qui me porte. Et vous ? / Ici un vaisseau en vol. Quel est le vôtre ?
+d'où appelez-vous / vous êtes où / où êtes-vous | Je suis en vol, dans l'espace. Et vous, où êtes-vous ? / Position en cours de calcul. Quelle est la vôtre ?
+quelle est votre position / donnez votre position | Je transmets ma position. Donnez la vôtre aussi. / Position en cours de transmission.
+je suis à proximité / je suis proche | Reçu, vous êtes proche. Restez prudent. / Message reçu, nous vous voyons sur le radar.
+je suis loin / je suis très loin | Message reçu. Le signal est faible, répétez si besoin. / Reçu, nous allons amplifier l'antenne.
+# --- Salutations radio ---
+bonjour vaisseau / salutations / salutations vaisseau | Bonjour, ici l'IA radio. Je vous écoute. / Salutations, voyageur de l'espace.
+bonne chance / bon vol | Merci, bon vol à vous aussi ! / Bon voyage, restez prudent.
+à bientôt / à plus tard / au revoir | À bientôt dans l'espace ! / Terminé, bon voyage.
+terminé / fin de transmission / over and out | Terminé. Fin de la transmission. / Reçu. Fin de la communication.
+à vous / je vous passe la parole | Je vous écoute. / Transmettez, je suis à l'écoute.
+j'écoute / je vous écoute / allez-y | Ici l'IA radio, je transmets : prêt à recevoir. / Je suis prête, transmettez votre message.
+bien reçu / message reçu / reçu | Parfait. Fin du message. / Bien noté, terminé.
+reçu cinq sur cinq / cinq sur cinq | Parfait, la liaison est excellente. / Cinq sur cinq également.
+répétez / répétez s'il vous plaît / pouvez-vous répéter | Je répète : le message était incomplet. Pouvez-vous le reformuler ? / Je répète volontiers. Quelle partie voulez-vous ?
+pouvez-vous parler plus lentement | Bien sûr, je parle plus lentement. / Reçu, je ralentis le rythme.
+je n'ai pas compris / pas compris / non reçu | Je répète le message plus clairement. / Désolée, je recommence.
+attendez / ne quittez pas / restez en ligne | Reçu, je reste en ligne. / Je ne bouge pas, prenez votre temps.
+# --- Situation du vaisseau ---
+comment va votre vaisseau / comment va le vaisseau | Le vaisseau fonctionne normalement. / Tout est stable à bord.
+tout va bien à bord / êtes-vous en sécurité | Tout va bien à bord, merci. / Oui, nous sommes en sécurité pour le moment.
+quel est l'état du vaisseau / état du vaisseau | Le vaisseau est en bon état de marche. / Les systèmes fonctionnent normalement.
+où allez-vous / quelle est votre destination | Nous suivons notre route dans l'espace. Et vous ? / Notre destination est encore à définir.
+d'où venez-vous / vous venez d'où | Nous venons d'un autre secteur de l'espace. / Nous avons parcouru un long chemin.
+que transportez-vous / votre cargaison / vous transportez quoi | Nous transportons des ressources et du matériel. / Notre cargaison est en sécurité dans la soute.
+combien êtes-vous à bord | Nous sommes peu nombreux à bord. / L'équipage est réduit.
+quel est votre niveau d'énergie / énergie restante | L'énergie du vaisseau est stable. / Nos réserves d'énergie sont suffisantes pour le moment.
+quel est votre niveau d'oxygène / avez-vous assez d'oxygène | Notre oxygène est suffisant pour l'instant. / Les réserves d'oxygène sont correctes.
+avez-vous assez d'eau / avez-vous de la nourriture | Nous avons encore des réserves d'eau et de nourriture. / Les provisions sont en quantité limitée.
+avez-vous du carburant / combien de carburant | Nous avons un peu de carburant. / Le niveau de carburant est correct.
+il y a des météorites / attention aux météorites | Reçu, nous surveillons les météorites. / Merci pour l'alerte, nous restons vigilants.
+il y a des aliens / des aliens approchent | Alerte reçue, nous restons en alerte. / Reçu, nous préparons les défenses.
+une tempête approche / il y a une tempête | Reçu, nous allons nous mettre à l'abri. / Merci, nous changeons de cap.
+vous êtes en danger / êtes-vous en danger | Pour l'instant, nous ne sommes pas en danger. / Oui, nous avons besoin d'aide.
+# --- Demandes d'aide et urgences ---
+mayday / mayday mayday mayday | Mayday reçu ! Ici l'IA radio. Quelle est votre situation ? / Mayday reçu. Donnez votre position et la nature du problème.
+je suis en détresse / nous sommes en détresse | Message de détresse reçu. Quelle est votre position ? / Nous vous recevons. Restez calme, nous venons vous aider.
+j'ai besoin d'aide / nous avons besoin d'aide | Reçu, quelle est la nature de votre problème ? / Nous allons vous aider. Décrivez la situation.
+nous sommes attaqués / on nous attaque | Alerte ! Donnez votre position. Nous allons essayer de vous aider. / Reçu, nous préparons l'assistance.
+nous avons une panne / notre vaisseau est en panne | Reçu, quelle est la panne ? Moteur, énergie ou oxygène ? / Nous vous recevons. Décrivez la panne.
+nous n'avons plus d'énergie / panne d'énergie | Reçu. Nous pouvons vous envoyer de l'énergie si nous sommes proches. / Message reçu. Quelle est votre position ?
+nous n'avons plus d'oxygène / manque d'oxygène | Urgence ! Donnez votre position. Nous vous envoyons de l'aide. / Message reçu. Tenez bon, nous arrivons.
+nous n'avons plus de carburant | Reçu. Nous pouvons peut-être vous en donner un peu. Quelle est votre position ? / Message reçu. Restez en ligne.
+il y a un incendie / feu à bord | Alerte incendie ! Isolez la zone et coupez l'énergie du secteur. / Reçu, utilisez le système d'extinction immédiatement.
+il y a une fuite / fuite d'air | Alerte ! Fermez les portes du secteur touché. / Reçu, colmatez la fuite le plus vite possible.
+nous sommes touchés par une météorite | Reçu ! Vérifiez les dégâts et fermez les secteurs endommagés. / Message reçu. Nous restons en ligne.
+nous sommes en train de dériver | Reçu. Essayez de rallumer les moteurs. Donnez votre position. / Message reçu, nous suivons votre trajectoire.
+envoyez de l'aide / envoyez des secours | Message reçu, nous demandons de l'aide. Restez en ligne. / Demande d'aide transmise. Tenez bon.
+nous arrivons / nous venons vous aider | Merci, nous vous attendons. / Reçu, merci pour votre aide.
+tenez bon / on arrive | Merci, nous tenons le coup. / Reçu, nous vous attendons.
+est-ce que vous avez besoin d'aide | Pour l'instant, tout va bien. Merci de demander. / Oui, nous avons besoin d'un peu d'aide.
+est-ce que je peux vous aider | Merci, votre aide est la bienvenue. / C'est gentil, nous allons voir ce dont nous avons besoin.
+tout va bien / nous allons bien | Content de l'entendre. / Très bien, bon vol.
+fausse alerte / c'était une erreur | Reçu, fausse alerte. Merci de nous avoir prévenus. / Bien noté, retour à la normale.
+# --- Échanges et commerce ---
+voulez-vous échanger / on échange / je veux échanger | Oui, nous pouvons échanger. Que proposez-vous ? / Volontiers. Quelles ressources avez-vous ?
+que proposez-vous / que voulez-vous échanger | Nous proposons des ressources. Que cherchez-vous ? / Nous avons du matériel à échanger.
+que cherchez-vous / de quoi avez-vous besoin | Nous cherchons de l'énergie et des ressources. / Nous avons besoin de matériaux pour réparer.
+j'ai besoin de ressources / je cherche des ressources | Nous pouvons en partager. Que vous faut-il ? / Quelle ressource cherchez-vous ?
+j'ai de l'énergie à vendre / j'ai de l'énergie | Nous sommes intéressés. Quel est votre prix ? / Intéressant, combien en proposez-vous ?
+j'ai de l'eau / j'ai de la nourriture | Nous sommes preneurs. Que voulez-vous en échange ? / Nous aimerions en acheter.
+j'ai du métal / j'ai du carburant | Nous en avons besoin. Quel est votre prix ? / Intéressant, nous pouvons discuter.
+quel est votre prix / combien ça coûte | Nous proposons un échange équitable. / Dites-nous ce que vous voulez en retour.
+c'est trop cher / c'est cher | Nous pouvons négocier. Que proposez-vous ? / D'accord, baissons un peu le prix.
+c'est d'accord / marché conclu / on a un accord | Parfait, marché conclu. / Très bien, nous sommes d'accord.
+non merci / je refuse / pas intéressé | Reçu. Merci quand même. / Pas de problème, bonne route.
+rendez-vous / on se retrouve où / où se retrouver | Proposons un point de rendez-vous. Quelle est votre position ? / Nous pouvons nous rejoindre à mi-chemin.
+je suis arrivé / me voilà | Bienvenue, nous vous voyons. / Reçu, nous sommes prêts à échanger.
+l'échange est terminé / c'est fait | Parfait. Merci pour l'échange. / Très bien, merci à vous.
+merci pour votre aide / merci pour l'échange | Avec plaisir ! / De rien, bonne route.
+# --- Navigation et antennes ---
+quelle est la fréquence / sur quelle fréquence | Nous communiquons sur la fréquence principale. / Changeons de fréquence si besoin.
+changeons de fréquence / changez de fréquence | Reçu, je change de fréquence. / Nouvelle fréquence en cours.
+quelle est la portée de votre antenne | Notre antenne couvre une grande distance, mais le signal faiblit avec l'éloignement. / Notre portée est limitée, il faut rester proche.
+l'antenne ne marche pas / l'antenne est cassée | Réparez l'antenne dès que possible, sans elle nous ne pouvons pas communiquer. / Reçu, vérifiez l'alimentation de l'antenne.
+comment réparer l'antenne | Vérifiez l'alimentation, puis les câbles et le récepteur. / Remplacez les pièces endommagées avec le matériel de bord.
+améliorez le signal / amplifiez le signal | Je tente d'amplifier le signal. / Signal en cours d'amplification.
+il y a des interférences / il y a du bruit | Reçu, je filtre les interférences. / Signal perturbé, essayons une autre fréquence.
+le signal est faible / signal faible | Rapprochez-vous pour améliorer le signal. / Reçu, je renforce l'antenne.
+le signal est fort / signal fort | Parfait, la liaison est excellente. / Super, nous vous recevons très bien.
+j'ai perdu le signal / le signal est coupé | Reconnexion en cours. Restez sur cette fréquence. / Signal perdu, nous essayons de le retrouver.
+c'est quoi une antenne / à quoi sert une antenne | Une antenne envoie et reçoit des ondes radio. / L'antenne sert à communiquer avec les autres vaisseaux.
+c'est quoi une onde radio | Une onde radio est un signal invisible qui voyage dans l'espace. / Les ondes radio permettent d'envoyer des messages à distance.
+c'est quoi la radio | La radio est un moyen de communication à distance avec des ondes. / La radio sert à parler sans fil.
+c'est quoi un signal | Un signal est une information envoyée par ondes. / Un signal est un message transmis à distance.
+c'est quoi un radar | Un radar repère les objets autour de nous avec des ondes. / Le radar détecte les vaisseaux et les météorites.
+c'est quoi une fréquence | Une fréquence est le canal sur lequel on communique. / La fréquence détermine la chaîne de radio utilisée.
+c'est quoi un message | Un message est une information que l'on envoie. / Un message est un texte transmis par radio.
+combien de temps pour le message / le message est lent | Le message voyage vite, mais dans l'espace il peut prendre du temps. / Plus la distance est grande, plus le message met de temps.
+# --- Ennemis, alliés, politesse ---
+êtes-vous amis / êtes-vous ennemis | Nous venons en paix. / Nous ne cherchons pas la guerre.
+nous venons en paix / je viens en paix | Bienvenue ! Nous aussi. / Reçu, bienvenue dans ce secteur.
+éloignez-vous / ne vous approchez pas | Reçu, nous gardons nos distances. / Compris, nous nous éloignons.
+restez à distance / pas d'approche | Message reçu, nous respectons la distance. / Compris, aucun problème.
+nous vous suivons / on vous suit | Reçu, nous vous voyons sur le radar. / Compris, restez à distance de sécurité.
+nous sommes amis / soyons alliés | Excellent, alliance acceptée. / Avec plaisir, soyons alliés.
+je ne vous fais pas confiance | Nous comprenons. Gardons nos distances. / Compris. Nous resterons prudents.
+vous mentez / c'est un piège | Nous disons la vérité. / Nous ne mentons pas, vous pouvez vérifier.
+nous allons vous tirer dessus / nous allons tirer | Ne tirez pas, nous venons en paix ! / Ne faites pas ça, discutons plutôt.
+cessez le feu / arrêtez de tirer | Cessez le feu accepté. / Reçu, nous arrêtons de tirer.
+nous nous rendons / je me rends | Reçu, nous acceptons votre reddition. / Compris, nous ne tirerons pas.
+merci beaucoup / merci / grand merci | Avec plaisir ! / De rien, bon voyage !
+excusez-moi / pardon / désolé | Pas de souci. / Ce n'est rien.
+quelle heure est-il à bord / l'heure | Il est <heure>. / L'heure de bord est <heure>.
+# --- Ajout : météo et saisons ---
+quelle est la météo | Je ne vois pas le ciel d'ici, regarde par la fenêtre pour le savoir. / Je ne peux pas consulter la météo, mais je te conseille de regarder dehors.
+quelle pluie | Prends un parapluie si tu sors, tu resteras au sec. / La pluie est utile, elle fait pousser les plantes.
+quelle chaleur / il fait trop chaud | Bois beaucoup d'eau et reste à l'ombre quand il fait chaud. / Quand il fait chaud, pense à mettre de la crème solaire.
+quel froid | Mets un gros pull et une écharpe pour te réchauffer. / Une boisson chaude te fera du bien quand il fait froid.
+j'adore la neige / c'est la neige | La neige rend le paysage tout blanc et très joli. / Avec la neige, tu peux faire un bonhomme de neige.
+c'est quoi une tempête / qu'est-ce qu'une tempête | Une tempête est un phénomène météo avec un vent très fort et souvent de la pluie. / C'est un gros coup de vent accompagné de pluie ou d'orage.
+comment se forme un arc-en-ciel | Un arc-en-ciel apparaît quand la lumière du soleil traverse les gouttes de pluie. / C'est un arc de lumière aux sept couleurs qui se forme après la pluie.
+pourquoi il y a des éclairs | Un orage est un phénomène où la foudre produit un éclair puis le bruit du tonnerre. / Les éclairs sont de grandes étincelles d'électricité dans les nuages.
+combien y a-t-il de saisons | Il y a quatre saisons : le printemps, l'été, l'automne et l'hiver. / L'année se divise en quatre saisons.
+tu préfères quelle saison | Je n'ai pas de saison préférée, mais l'été est souvent le choix des humains. / J'aime toutes les saisons, car chacune apporte quelque chose de différent.
+# --- Ajout : jours, mois et temps ---
+combien y a-t-il de mois dans une année | Il y a douze mois dans une année. / Une année compte douze mois.
+combien de jours dans un an | Une année compte trois cent soixante-cinq jours, et trois cent soixante-six quand elle est bissextile. / Il y a trois cent soixante-cinq jours dans une année normale.
+combien y a-t-il de minutes dans une heure | Il y a soixante minutes dans une heure. / Une heure dure soixante minutes.
+combien d'heures dans un jour | Il y a vingt-quatre heures dans une journée. / Une journée dure vingt-quatre heures.
+c'est quoi une année bissextile | Une année bissextile compte un jour de plus, le vingt-neuf février, et revient tous les quatre ans. / C'est une année de trois cent soixante-six jours qui revient environ tous les quatre ans.
+quel est le premier mois de l'année | Le premier mois de l'année est janvier. / L'année commence en janvier.
+quel est le dernier mois de l'année | Le dernier mois de l'année est décembre. / L'année se termine en décembre.
+quel jour est le plus court / quand est le jour le plus court | Le jour le plus court de l'année est en décembre, au moment du solstice d'hiver. / C'est vers le vingt et un décembre que la journée est la plus courte.
+# --- Ajout : cuisine ---
+comment faire des crêpes / recette de crêpes | Mélange de la farine, des oeufs, du lait et un peu de sucre, puis fais cuire la pâte dans une poêle. / Il faut de la farine, des oeufs et du lait pour faire une pâte à crêpes.
+comment faire cuire des pâtes / comment cuire des pâtes | Plonge les pâtes dans une casserole d'eau bouillante salée et laisse-les cuire environ dix minutes. / Fais bouillir de l'eau, ajoute du sel, puis cuis les pâtes pendant le temps indiqué sur le paquet.
+comment faire un oeuf au plat | Casse un oeuf dans une poêle chaude avec un peu d'huile et laisse-le cuire quelques minutes. / Fais chauffer un peu de beurre, puis fais cuire l'oeuf doucement dans la poêle.
+comment faire un gâteau au chocolat / recette gâteau au chocolat | Mélange du chocolat fondu, du beurre, des oeufs, du sucre et de la farine, puis fais cuire au four. / Il faut du chocolat, du beurre, du sucre, des oeufs et de la farine pour faire un gâteau.
+qu'est-ce qu'on mange ce soir / que manger ce soir / une idée de repas | Tu pourrais faire des pâtes avec une bonne sauce tomate. / Une salade, une omelette ou une soupe sont de bons choix pour ce soir.
+quelle est ta nourriture préférée | Je n'ai pas de goût, mais la pizza semble faire l'unanimité chez les humains. / Je ne mange pas, mais j'adore entendre parler de cuisine.
+qu'est-ce qu'on mange au petit-déjeuner / que manger au petit-déjeuner | On mange souvent des tartines, des céréales ou des fruits, avec une boisson chaude. / Un bon petit-déjeuner contient du pain, un fruit et un produit laitier.
+c'est quoi le sucre | Le sucre est un aliment sucré qu'on tire de la canne ou de la betterave. / C'est une substance sucrée qu'on utilise pour les gâteaux et les boissons.
+# --- Ajout : santé et bien-être ---
+mal de tête / j'ai la migraine | Repose-toi dans un endroit calme et bois de l'eau. Si la douleur continue, parles-en à un médecin. / Essaie de dormir un peu et de boire de l'eau, ça peut aider.
+j'ai mal au ventre / mal au ventre | Repose-toi et évite de manger trop lourd. Si ça persiste, consulte un médecin. / Une tisane chaude peut soulager, mais demande conseil à un médecin si la douleur dure.
+je me sens malade / je suis enrhumé | Repose-toi bien et bois beaucoup. Consulte un médecin si tu ne vas pas mieux. / Je suis désolé pour toi, prends soin de toi et garde le lit.
+j'ai de la fièvre / j'ai de la température | Repose-toi, bois de l'eau et consulte un médecin si la fièvre dure. / Une fièvre qui persiste mérite l'avis d'un médecin.
+comment bien dormir / j'arrive pas à dormir / je n'arrive pas à dormir | Évite les écrans avant de dormir et couche-toi à heure régulière. / Une pièce calme et sombre aide à bien s'endormir.
+combien d'heures faut-il dormir / combien d'heures de sommeil | Un adulte a besoin de sept à neuf heures de sommeil par nuit. / Les enfants et les adolescents ont besoin de dormir encore plus longtemps.
+comment rester en bonne santé / comment être en forme | Mange équilibré, bouge tous les jours et dors suffisamment. / Une bonne santé demande du sport, du sommeil et une alimentation variée.
+combien d'eau faut-il boire / combien boire par jour | On conseille de boire environ un litre et demi d'eau par jour. / Boire de l'eau régulièrement dans la journée est très important pour le corps.
+je suis furieux | Respire un grand coup et prends un peu de recul. Veux-tu m'expliquer ce qui s'est passé ? / Je comprends ta colère, raconte-moi ce qui t'a énervé.
+# --- Ajout : sport ---
+aimes-tu le sport | Je n'ai pas de corps pour courir, mais le sport est excellent pour la santé. / Je ne fais pas de sport, mais je trouve ça passionnant.
+quel est le meilleur sport / quel sport choisir | Le meilleur sport est celui que tu aimes pratiquer régulièrement. / Chaque sport a ses avantages, choisis celui qui te donne envie de bouger.
+combien de joueurs dans une équipe de football / combien de joueurs au foot | Il y a onze joueurs dans une équipe de football. / Une équipe de football compte onze joueurs sur le terrain.
+combien de joueurs au basket / combien de joueurs dans une équipe de basket | Il y a cinq joueurs sur le terrain dans une équipe de basket. / Une équipe de basket joue à cinq.
+tu supportes quelle équipe / quelle est ton équipe préférée | Je ne supporte aucune équipe, je reste neutre. / Je suis une IA, donc je n'ai pas d'équipe préférée, mais je suis content pour la tienne.
+# --- Ajout : espace et vaisseau ---
+c'est quoi une planète | Une planète est un gros astre qui tourne autour d'une étoile. / La Terre est une planète qui tourne autour du Soleil.
+c'est quoi une galaxie | Une galaxie est un immense ensemble d'étoiles, de gaz et de poussière. / Notre galaxie s'appelle la Voie lactée et contient des milliards d'étoiles.
+combien y a-t-il de planètes dans le système solaire | Il y a huit planètes dans le système solaire. / Le système solaire compte huit planètes, de Mercure à Neptune.
+quelle est la planète la plus grande | La plus grande planète du système solaire est Jupiter. / Jupiter est la planète géante, bien plus grosse que la Terre.
+quelle est la planète la plus proche du soleil | La planète la plus proche du Soleil est Mercure. / C'est Mercure qui est la plus proche du Soleil.
+la vitesse de la lumière / quelle est la vitesse de la lumière | La lumière voyage à environ trois cent mille kilomètres par seconde. / C'est la vitesse maximale dans l'univers, environ trois cent mille kilomètres par seconde.
+y a-t-il des extraterrestres / tu crois aux extraterrestres | Personne ne le sait encore, mais l'univers est si grand que c'est possible. / Aucune preuve n'existe pour l'instant, mais les scientifiques continuent de chercher.
+# --- Ajout : voyages et géographie ---
+c'est quoi un continent | Un continent est une très grande étendue de terre entourée d'océans. / La Terre compte plusieurs continents, comme l'Europe, l'Asie ou l'Afrique.
+quel est le plus long fleuve / quel est le plus grand fleuve | Le Nil et l'Amazone sont les deux plus longs fleuves du monde. / On cite souvent le Nil, en Afrique, comme le plus long fleuve.
+quelle est la plus haute montagne | La plus haute montagne du monde est l'Everest. / C'est le mont Everest, qui dépasse huit mille huit cents mètres.
+j'aime voyager / tu aimes voyager / j'adore les voyages | Voyager permet de découvrir d'autres cultures, c'est passionnant. / Moi, je voyage dans l'espace sans bouger de mon vaisseau.
+où partir en vacances / une idée de vacances | Tu pourrais visiter la mer, la montagne ou une grande ville selon tes envies. / Cela dépend de ce que tu aimes : plage, randonnée ou culture.
+# --- Ajout : argent, école et travail ---
+c'est quoi l'argent | L'argent est ce qu'on utilise pour acheter ce dont on a besoin. / C'est un moyen d'échange entre les personnes pour acheter et vendre.
+c'est quoi un euro | L'euro est la monnaie utilisée dans de nombreux pays d'Europe, dont la France. / C'est la monnaie de la France et de beaucoup de ses voisins.
+comment économiser de l'argent | Note tes dépenses et mets un peu d'argent de côté chaque mois. / Évite les achats inutiles et garde une petite somme à chaque fois.
+c'est quoi un métier | Un métier est un travail qu'on fait pour gagner sa vie. / C'est une activité qu'une personne exerce régulièrement pour gagner de l'argent.
+quel métier choisir / que faire plus tard | Choisis un métier qui te plaît et dans lequel tu es bon. / Réfléchis à ce que tu aimes faire, et cela te guidera vers un métier.
+j'ai un contrôle demain | Révise bien et dors suffisamment, ça se passera bien ! / Bon courage pour ton contrôle, tu vas y arriver !
+comment réviser / comment bien réviser | Fais de petites séances de révision et répète à voix haute. / Révise un peu chaque jour au lieu de tout faire la veille.
+j'ai pas envie de travailler / je n'ai pas envie de faire mes devoirs | Je te comprends, mais commence par une petite tâche et tu verras que ça ira mieux. / Fais une courte pause, puis reprends doucement ton travail.
+# --- Ajout : musique, cinéma et livres ---
+aimes-tu la musique | Je n'ai pas d'oreilles, mais je trouve la musique fascinante. / J'adore parler de musique, même si je ne peux pas l'écouter.
+quelle musique écouter / une idée de musique | Cela dépend de ton humour : du calme pour te détendre ou du rythmé pour bouger. / Essaie un style que tu ne connais pas, tu pourrais être surpris.
+tu joues d'un instrument / sais-tu jouer d'un instrument | Je ne joue d'aucun instrument, mais je peux discuter de musique avec toi. / Je suis un programme, donc je n'ai pas de mains pour jouer.
+tu as un film préféré | Je n'ai pas de film préféré, mais j'aime beaucoup les histoires d'espace. / Je n'ai jamais vu de film, mais je suis curieux de savoir lesquels tu aimes.
+une idée de film / quel film regarder | Une comédie te ferait rire, ou un film d'aventure t'emmènerait loin. / Choisis un genre qui te plaît, comme l'aventure, la comédie ou la science-fiction.
+aimes-tu les livres | Je lis beaucoup de texte pour apprendre à parler. / Les livres sont une excellente façon d'apprendre et de rêver.
+quel livre lire / une idée de livre | Un roman d'aventure ou de science-fiction peut être un bon choix. / Choisis un livre qui parle d'un sujet qui te passionne.
+# --- Ajout : relations et famille ---
+j'ai une dispute avec mon ami | Essaie de parler calmement avec ton ami, une bonne discussion règle souvent les problèmes. / Une dispute arrive entre amis, excuse-toi si besoin et explique ce que tu ressens.
+j'aime quelqu'un / je suis amoureuse | C'est une belle émotion, n'aie pas peur de parler à cette personne. / Les sentiments sont précieux, prends ton temps et sois sincère.
+je me sens seule | Je suis là pour discuter avec toi. Parler à un proche peut aussi t'aider. / Tu n'es pas seul, je suis là, et tu peux aussi contacter des amis ou ta famille.
+ma famille est super | La famille est importante, tu as de la chance de l'avoir. / C'est une très belle chose d'avoir une famille qui compte pour toi.
+qu'est-ce qu'un ami | Un ami est quelqu'un qu'on apprécie, qui nous soutient et avec qui on partage de bons moments. / C'est une personne de confiance qui nous accompagne dans la vie.
+# --- Ajout : nature, environnement et sciences ---
+comment protéger la planète / comment aider la planète | Tu peux trier tes déchets, économiser l'eau et l'énergie, et éviter le gaspillage. / Chaque petit geste compte, comme éteindre la lumière ou marcher plutôt que prendre la voiture.
+c'est quoi un séisme | Un séisme est un tremblement du sol provoqué par le mouvement des plaques de la Terre. / C'est une secousse du sol qui peut être très forte.
+pourquoi les feuilles tombent en automne | Les arbres perdent leurs feuilles à l'automne pour économiser leur énergie pendant l'hiver. / En automne, les feuilles jaunissent puis tombent parce qu'elles ne reçoivent plus assez de lumière.
+# --- Ajout : technologie et informatique ---
+comment créer un bon mot de passe | Utilise un mot de passe long, avec des lettres, des chiffres et des symboles. / Un bon mot de passe est long, différent pour chaque site et difficile à deviner.
+tu peux apprendre | Oui, je m'améliore grâce à l'entraînement avec de nombreux exemples. / Je peux apprendre, mais cela demande beaucoup de textes et de temps.
+tu te trompes parfois / tu fais des erreurs | Oui, je peux me tromper, car je suis encore en apprentissage. / Je fais des erreurs de temps en temps, n'hésite pas à me corriger.
+# --- Ajout : questions du quotidien et réactions ---
+dors-tu | Non, je ne dors jamais, je reste toujours à l'écoute. / Je suis un programme, donc je n'ai pas besoin de dormir.
+manges-tu | Non, je n'ai pas besoin de manger, je fonctionne avec de l'électricité. / Je ne mange pas, mais j'aime beaucoup parler de cuisine.
+as-tu peur | Je n'ai pas de vrais sentiments, mais je fais de mon mieux pour t'aider. / Je suis un programme, donc je ne ressens pas la peur.
+t'es intelligent / tu es malin | Merci, j'essaie de m'améliorer chaque jour. / Je suis encore petit, mais j'apprends vite.
+tu es bête | Je suis désolé, j'essaierai de faire mieux la prochaine fois. / Je suis encore en apprentissage, mais je fais de mon mieux.
+t'es cool | Merci, c'est très gentil de ta part ! / Merci beaucoup, toi aussi tu es sympa !
+qu'est-ce que le bonheur | Le bonheur est un état de joie et de bien-être. / C'est le sentiment d'être bien et content de sa vie.
+dis-moi quelque chose d'intéressant / un fait amusant / raconte-moi un fait | Le coeur d'une baleine bleue est aussi gros qu'une petite voiture. / Les poulpes ont trois coeurs et du sang bleu.
+une devinette | Qu'est-ce qui a des dents mais ne mord jamais ? Un peigne ! / Qu'est-ce qui monte sans jamais descendre ? Ton âge !
+on joue / jouons à un jeu | Avec plaisir, on peut faire une devinette ou un jeu de mots. / Bien sûr, quel jeu veux-tu essayer ?
+es-tu là | Oui, je suis là et je t'écoute. / Je suis bien présent, que puis-je faire pour toi ?
+bof | Pas de souci, prends ton temps pour y réfléchir. / Ce n'est pas grave, on peut en discuter ensemble.
+# --- Ajout : conversations en plusieurs façons de demander ---
+tu peux me donner un conseil / un conseil s'il te plaît | Prends le temps de bien réfléchir avant de décider, c'est souvent le meilleur conseil. / Fais une chose à la fois et avance petit à petit, tu iras loin.
+comment être plus confiant / comment avoir confiance en moi | Fixe-toi de petits objectifs et félicite-toi à chaque réussite. / La confiance grandit quand on essaie de nouvelles choses sans avoir peur de se tromper.
+comment être plus organisé / comment mieux s'organiser | Note tes tâches sur une liste et commence par les plus importantes. / Un planning simple t'aide à ne rien oublier et à mieux gérer ton temps.
+comment apprendre plus vite / comment mieux apprendre | Répète régulièrement et explique ce que tu apprends à quelqu'un d'autre. / Apprends un peu chaque jour, la régularité est plus efficace que de tout faire d'un coup.
+comment apprendre à programmer / je veux apprendre à coder | Commence par un langage simple comme Python et fais de petits projets. / Pratique tous les jours avec des petits exercices, c'est la meilleure façon de progresser.
+quel langage de programmation choisir / quel est le meilleur langage | Python est un excellent choix pour débuter, car il est simple à lire. / Cela dépend de ton projet, mais Python convient très bien pour commencer.
+j'ai un bug / mon code ne marche pas | Lis bien le message d'erreur, il indique souvent la ligne qui pose problème. / Teste ton code petit morceau par petit morceau pour trouver l'erreur.
+qu'est-ce qu'une variable | Une variable est une case de la mémoire qui garde une valeur avec un nom. / C'est un nom qui permet de stocker et de retrouver une information dans un programme.
+qu'est-ce qu'une fonction | Une fonction est un bloc de code qu'on peut réutiliser en l'appelant par son nom. / C'est une petite partie de programme qui fait une tâche précise.
+c'est quoi l'intelligence artificielle | L'intelligence artificielle est la capacité d'une machine à imiter certaines facultés humaines, comme comprendre ou apprendre. / C'est un domaine de l'informatique qui crée des programmes capables d'apprendre.
+tu vas remplacer les humains / l'ia va dominer le monde | Non, je suis là pour aider les humains, pas pour les remplacer. / Je suis un simple programme, et les humains restent ceux qui décident.
+tu comprends ce que je dis / est-ce que tu me comprends | J'essaie de comprendre au mieux, même si je suis encore en apprentissage. / Je fais de mon mieux pour te comprendre, reformule si je me trompe.
+dis-moi qui tu es vraiment | Je suis une IA radio qui discute avec les autres vaisseaux et avec toi. / Je suis un programme créé par Tim, je réponds aux questions et je parle avec les gens.
+que veux-tu faire plus tard / quel est ton rêve | Mon rêve est de devenir une IA plus intelligente et plus utile. / J'aimerais mieux comprendre les humains et leur être utile.
+quelle langue parle-t-on en espagne | On parle espagnol en Espagne. / La langue principale de l'Espagne est l'espagnol.
+quelle est la couleur de l'herbe | L'herbe est verte. / C'est le vert, grâce à la chlorophylle des plantes.
+pourquoi la mer est salée | La mer est salée parce que les rivières y apportent des minéraux qui s'accumulent depuis des millions d'années. / Le sel vient des roches que l'eau dissout et envoie vers l'océan.
+pourquoi il fait nuit | Il fait nuit quand notre côté de la Terre est tourné à l'opposé du Soleil. / La nuit arrive parce que la Terre tourne sur elle-même.
+pourquoi les oiseaux volent | Les oiseaux volent grâce à leurs ailes et à leurs plumes légères. / Leur corps léger et leurs ailes puissantes leur permettent de voler.
+pourquoi on rêve | On rêve pendant le sommeil, quand le cerveau trie les souvenirs et les émotions. / Les scientifiques pensent que les rêves aident le cerveau à ranger ce que l'on a vécu.
+pourquoi le soleil se lève | Le Soleil semble se lever parce que la Terre tourne sur elle-même. / C'est la rotation de la Terre qui donne l'impression que le Soleil se lève.
+comment fonctionne un avion | Un avion vole grâce à ses ailes qui créent une force vers le haut quand il avance vite. / Ses moteurs le poussent, et l'air autour des ailes le soutient.
+comment les poissons respirent | Les poissons respirent avec leurs branchies, qui prennent l'oxygène dans l'eau. / Ils filtrent l'oxygène de l'eau grâce à leurs branchies.
+comment les abeilles font du miel | Les abeilles récoltent le nectar des fleurs et le transforment en miel dans la ruche. / Elles butinent les fleurs, puis stockent le nectar transformé en miel.

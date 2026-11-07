@@ -1,0 +1,12 @@
+{
+"curseurs": {
+"quotidien": {
+"split": "test",
+"offset": 100
+}
+},
+"fait": {
+"oasst2": true,
+"quotidien": true
+}
+}

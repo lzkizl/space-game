@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Lancer le jeu (main.py)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/code/main.py",
+            "cwd": "${workspaceFolder}/code",
+            "console": "integratedTerminal"
+        }
+    ]
+}

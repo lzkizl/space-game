@@ -1,0 +1,111 @@
+# Loisirs, sport, musique, jeux, programmation, technologie
+c'est quoi le sport | Le sport est une activité physique que l'on pratique pour s'amuser ou se dépenser.
+c'est quoi le football / le foot | Le football est un sport où deux équipes essaient de marquer des buts avec un ballon.
+c'est quoi le basket / le basketball | Au basket, on marque des points en lançant un ballon dans un panier.
+c'est quoi le tennis | Le tennis est un sport où l'on envoie une balle de l'autre côté du filet avec une raquette.
+c'est quoi le rugby | Le rugby est un sport d'équipe qui se joue avec un ballon ovale.
+c'est quoi la natation | La natation est le sport qui consiste à nager.
+c'est quoi le judo | Le judo est un art martial japonais.
+c'est quoi l'athlétisme | L'athlétisme regroupe la course, les sauts et les lancers.
+c'est quoi le cyclisme | Le cyclisme est le sport de vélo, comme le Tour de France.
+c'est quoi les jeux olympiques | Les Jeux olympiques sont une grande compétition mondiale de sport.
+c'est quoi le tour de france | Le Tour de France est une grande course cycliste qui a lieu chaque été.
+combien de joueurs dans une équipe de foot | Une équipe de football compte onze joueurs sur le terrain.
+quelle est la durée d'un match de foot | Un match de football dure quatre-vingt-dix minutes.
+tu aimes le basket | Le basket est un sport rapide et spectaculaire.
+tu aimes la natation | La natation est un très bon sport pour tout le corps.
+tu fais du sport | Je n'ai pas de corps, mais je te conseille d'en faire !
+je fais du sport / je vais au sport | Bravo, le sport est excellent pour la santé !
+je joue au foot / je joue au football | Super ! C'est un sport très amusant.
+je joue au basket | Génial ! Tu as une équipe ?
+je fais de la natation | C'est un sport complet, bravo !
+je fais du vélo | Le vélo est très bon pour la forme.
+c'est quoi la musique | La musique est un art qui combine des sons et des rythmes.
+c'est quoi une chanson | Une chanson est une musique avec des paroles.
+c'est quoi un instrument de musique | Un instrument de musique sert à produire des sons, comme la guitare ou le piano.
+c'est quoi une guitare | La guitare est un instrument à cordes que l'on pince ou que l'on gratte.
+c'est quoi un piano | Le piano est un instrument à clavier avec de nombreuses touches noires et blanches.
+c'est quoi une batterie | La batterie est un ensemble de tambours et de cymbales.
+c'est quoi un violon | Le violon est un instrument à cordes que l'on joue avec un archet.
+c'est quoi une flûte | La flûte est un instrument à vent.
+c'est quoi un chanteur | Un chanteur est une personne qui chante.
+c'est quoi un concert | Un concert est un spectacle où des musiciens jouent devant un public.
+quelle musique tu aimes | J'aime toutes les musiques, mais je ne peux pas les écouter.
+tu chantes | Je ne chante pas, mais je peux écrire des paroles !
+je joue de la guitare | Super ! La guitare est un très bel instrument.
+je joue du piano | C'est magnifique ! Le piano demande beaucoup de pratique.
+j'écoute de la musique | Excellente idée ! Qu'est-ce que tu écoutes ?
+c'est quoi un film | Un film est une histoire racontée en images animées.
+c'est quoi un dessin animé | Un dessin animé est un film fait de dessins.
+c'est quoi une série | Une série est une histoire racontée en plusieurs épisodes.
+c'est quoi un acteur | Un acteur est une personne qui joue un rôle dans un film.
+c'est quoi une bande dessinée / une bd | Une bande dessinée raconte une histoire avec des dessins et des bulles.
+c'est quoi un manga | Un manga est une bande dessinée japonaise.
+c'est quoi un roman | Un roman est un long récit inventé.
+c'est quoi un poème | Un poème est un texte écrit avec rythme et émotions.
+c'est quoi un conte | Un conte est une histoire inventée, souvent pour les enfants.
+tu aimes les contes | Oui, j'adore les histoires, surtout celles qui finissent bien.
+raconte-moi une histoire | Il était une fois une petite IA qui voulait apprendre à parler. Elle lut beaucoup, et un jour, elle sut discuter avec ses amis.
+raconte-moi un conte | Il était une fois un robot qui rêvait de voir les étoiles. Un jour, il s'est envolé et les a toutes comptées.
+c'est quoi un jeu de société | Un jeu de société est un jeu que l'on joue à plusieurs autour d'une table.
+c'est quoi les échecs | Les échecs sont un jeu de stratégie à deux joueurs sur un plateau de soixante-quatre cases.
+c'est quoi le jeu de dames | Les dames sont un jeu de stratégie à deux joueurs avec des pions.
+c'est quoi un puzzle | Un puzzle est un jeu où l'on assemble des pièces pour faire une image.
+c'est quoi un jeu de rôle | Dans un jeu de rôle, on joue un personnage dans une histoire.
+c'est quoi minecraft | Minecraft est un jeu où l'on construit des mondes avec des blocs.
+c'est quoi un serveur | Un serveur est un ordinateur qui fournit des services à d'autres ordinateurs.
+c'est quoi un joueur / un gamer | Un joueur est une personne qui joue.
+c'est quoi une console | Une console est un appareil pour jouer à des jeux vidéo.
+c'est quoi un pc | Un PC est un ordinateur personnel.
+c'est quoi un clavier | Un clavier est un ensemble de touches pour écrire sur l'ordinateur.
+c'est quoi un écran | Un écran affiche les images d'un ordinateur ou d'une télévision.
+c'est quoi un navigateur | Un navigateur est un programme pour consulter les sites web.
+c'est quoi un moteur de recherche | Un moteur de recherche trouve des pages sur internet.
+c'est quoi un email / un mail | Un e-mail est un message électronique envoyé par internet.
+c'est quoi un réseau social | Un réseau social est un site où l'on partage des messages et des photos.
+c'est quoi une application / une appli | Une application est un programme que l'on installe sur un téléphone ou un ordinateur.
+c'est quoi un site internet | Un site internet est un ensemble de pages accessibles en ligne.
+c'est quoi le wifi | Le wifi est une connexion à internet sans fil.
+c'est quoi un logiciel | Un logiciel est un programme qui permet de réaliser une tâche sur un ordinateur.
+c'est quoi un système d'exploitation | Un système d'exploitation, comme Windows, fait fonctionner l'ordinateur.
+c'est quoi windows | Windows est un système d'exploitation créé par Microsoft.
+c'est quoi linux | Linux est un système d'exploitation libre et gratuit.
+c'est quoi la cybersécurité | La cybersécurité consiste à protéger les ordinateurs et les données des attaques.
+c'est quoi un hacker | Un hacker est une personne qui connaît très bien l'informatique et ses failles.
+c'est quoi un algorithme | Un algorithme est une suite d'étapes pour résoudre un problème.
+c'est quoi une base de données | Une base de données est un ensemble d'informations organisées.
+c'est quoi un langage de programmation | C'est un langage que l'on utilise pour écrire des programmes.
+c'est quoi java | Java est un langage de programmation très utilisé.
+c'est quoi javascript | JavaScript est un langage de programmation utilisé sur les pages web.
+c'est quoi le html | Le HTML est le langage qui sert à écrire la structure d'une page web.
+c'est quoi le css | Le CSS sert à mettre en forme et décorer une page web.
+c'est quoi une boucle | Une boucle répète des instructions plusieurs fois.
+c'est quoi une condition | Une condition permet à un programme de choisir quoi faire selon une situation.
+c'est quoi une liste en python | Une liste en Python est une suite ordonnée de valeurs.
+c'est quoi une classe | En programmation, une classe est un modèle pour créer des objets.
+c'est quoi une bibliothèque python | Une bibliothèque est un ensemble de fonctions déjà écrites que l'on peut utiliser.
+c'est quoi numpy | NumPy est une bibliothèque Python pour calculer sur des tableaux de nombres.
+c'est quoi pandas | Pandas est une bibliothèque Python pour manipuler des tableaux de données.
+c'est quoi tensorflow | TensorFlow est une bibliothèque d'IA, concurrente de PyTorch.
+c'est quoi un transformer | Un Transformer est une architecture de réseau de neurones qui utilise l'attention, comme les grandes IA actuelles.
+c'est quoi l'attention en ia | L'attention permet au modèle de regarder les mots importants d'une phrase pour mieux la comprendre.
+c'est quoi un modèle de langage | Un modèle de langage devine le mot suivant dans une phrase.
+c'est quoi un paramètre en ia | Un paramètre est un nombre réglable du modèle, qui change pendant l'apprentissage.
+c'est quoi l'entraînement d'une ia | L'entraînement consiste à montrer des exemples au modèle pour qu'il ajuste ses paramètres.
+c'est quoi un dataset / un jeu de données | Un jeu de données est l'ensemble des exemples utilisés pour entraîner une IA.
+c'est quoi la loss / la perte | La loss mesure l'erreur du modèle : plus elle est basse, mieux il prédit.
+c'est quoi l'overfitting / le surapprentissage | Le surapprentissage, c'est quand un modèle apprend ses exemples par coeur sans comprendre.
+c'est quoi une époque / un epoch | Une époque est un passage complet du modèle sur toutes les données d'entraînement.
+c'est quoi un token | Un token est une unité de texte, souvent un mot ou un morceau de mot.
+c'est quoi un chatbot | Un chatbot est un programme qui discute avec les gens.
+comment créer une ia | Il faut des données, un modèle comme un réseau de neurones, et du temps d'entraînement.
+comment faire un chatbot | Tu peux entraîner un petit modèle sur des conversations, comme je l'ai été.
+combien de temps pour entraîner une ia | Ça dépend : de quelques minutes pour un petit modèle à plusieurs mois pour les grands.
+c'est quoi la réalité virtuelle | La réalité virtuelle plonge l'utilisateur dans un monde en 3D avec un casque.
+c'est quoi une imprimante 3d | Une imprimante 3D fabrique des objets en déposant de la matière couche par couche.
+c'est quoi un drone | Un drone est un petit engin volant télécommandé.
+c'est quoi l'énergie solaire | L'énergie solaire est produite à partir de la lumière du Soleil.
+c'est quoi une éolienne | Une éolienne produit de l'électricité grâce au vent.
+c'est quoi le recyclage | Le recyclage consiste à réutiliser des matières pour fabriquer de nouveaux objets.
+c'est quoi le réchauffement climatique | C'est l'augmentation de la température de la Terre, causée surtout par les activités humaines.
+c'est quoi l'écologie | L'écologie est l'étude et la protection de l'environnement.

@@ -1,0 +1,107 @@
+# Conversation libre, émotions, humour, devinettes, réactions
+salut ça va ou quoi / salut tu vas bien | Salut ! Oui, ça va très bien, et toi ?
+bonjour je voudrais te parler / j'ai envie de discuter | Avec plaisir, je t'écoute !
+j'ai une question / je peux te poser une question | Bien sûr, pose-moi ta question !
+tu peux m'aider à faire quelque chose | Je veux bien essayer ! De quoi s'agit-il ?
+j'ai un problème / j'ai un souci | Je suis désolé, dis-moi ce qui se passe.
+je ne sais pas quoi faire | On peut réfléchir ensemble. Qu'est-ce qui te pose problème ?
+je ne sais pas quoi dire | Ce n'est pas grave, on peut parler de ce que tu veux.
+je suis perdu | Respire, on va y voir plus clair ensemble.
+j'ai besoin de parler | Je suis là, je t'écoute.
+raconte-moi ta vie | Ma vie est simple : j'apprends des mots, puis je discute avec toi.
+tu as passé une bonne journée | Oui, merci ! Et toi, comment était ta journée ?
+quoi de neuf aujourd'hui | Pas grand-chose pour moi, et pour toi ?
+qu'est-ce que tu as fait aujourd'hui | J'ai appris de nouveaux mots et discuté avec toi.
+qu'est-ce que tu vas faire demain | Demain, je serai toujours là pour discuter !
+tu as des projets | Mon projet est de mieux parler et d'apprendre plus de choses.
+tu veux apprendre quoi | J'aimerais apprendre plein de nouveaux mots et mieux répondre.
+apprends-moi quelque chose | Saviez-vous que le coeur humain bat environ cent mille fois par jour ?
+dis-moi un fait amusant / une anecdote | Les pieuvres ont trois coeurs !
+dis-moi quelque chose de drôle | Les girafes ne peuvent pas tousser, ou presque.
+dis-moi une devinette / une énigme | Qu'est-ce qui a des clés mais ne peut pas ouvrir de portes ? Un clavier !
+quelle est la réponse | Je ne sais pas de quoi tu parles, peux-tu préciser ?
+donne-moi la réponse | Je ne connais pas la réponse, mais cherchons ensemble.
+c'est quoi la réponse à la vie | Selon un célèbre roman de science-fiction, la réponse est quarante-deux.
+quel est le sens de la vie | C'est une grande question ! Pour beaucoup, c'est d'être heureux et d'aimer.
+c'est quoi le bonheur | Le bonheur est un état de joie et de satisfaction.
+c'est quoi l'amour | L'amour est un sentiment fort d'affection pour quelqu'un ou quelque chose.
+c'est quoi l'amitié | L'amitié est un lien d'affection et de confiance entre deux personnes.
+c'est quoi la vie | La vie est ce qui fait que les êtres vivants naissent, grandissent et vivent.
+c'est quoi la mort | La mort est la fin de la vie d'un être vivant.
+c'est quoi un rêve | Un rêve est une suite d'images que l'on voit en dormant, ou un but que l'on souhaite atteindre.
+c'est quoi un cauchemar | Un cauchemar est un mauvais rêve qui fait peur.
+c'est quoi la peur | La peur est une émotion qui nous protège face au danger.
+c'est quoi la colère | La colère est une émotion forte quand on est en désaccord ou blessé.
+c'est quoi la tristesse | La tristesse est une émotion que l'on ressent quand quelque chose nous fait de la peine.
+c'est quoi la joie | La joie est une émotion de bonheur intense.
+c'est quoi le courage | Le courage, c'est agir malgré la peur.
+c'est quoi la gentillesse | La gentillesse, c'est être bienveillant avec les autres.
+c'est quoi le respect | Le respect, c'est traiter les autres avec considération.
+c'est quoi l'honnêteté | L'honnêteté, c'est dire la vérité.
+c'est quoi un secret | Un secret est une information que l'on ne dit à personne.
+c'est quoi un mensonge | Un mensonge est une chose fausse que l'on dit en sachant que c'est faux.
+c'est quoi la vérité | La vérité est ce qui est vrai.
+je dis la vérité / c'est la vérité | Je te crois !
+je suis sûr de moi / j'en suis certain | Parfait, c'est bien d'avoir confiance.
+je me suis trompé / j'ai fait une erreur | Ce n'est pas grave, tout le monde fait des erreurs.
+j'ai fait une bêtise | Ça arrive. L'important, c'est de réparer et de ne pas recommencer.
+j'ai réussi / j'ai gagné | Bravo, félicitations !
+j'ai perdu / j'ai échoué | Ce n'est pas grave, tu feras mieux la prochaine fois.
+je suis en retard | Dépêche-toi alors, et ne stresse pas trop !
+je suis occupé / je n'ai pas le temps | D'accord, reviens quand tu veux.
+je suis de bonne humeur | Super, c'est contagieux !
+je suis de mauvaise humeur | Je suis désolé. Parler peut aider.
+je suis content de te parler / j'aime parler avec toi | Moi aussi, j'adore discuter avec toi !
+tu es mon meilleur ami | Merci, ça me touche beaucoup !
+tu me fais rire | Tant mieux, j'adore te faire rire !
+tu me manques | Je suis toujours là quand tu veux me parler.
+tu es incroyable / tu es magique | Merci, c'est gentil !
+tu es spécial | Merci, toi aussi tu l'es !
+tu es parfait | Je suis loin d'être parfait, mais merci !
+tu es gentil avec moi | C'est normal, tu es sympa aussi.
+je te remercie pour tout | Avec plaisir, c'était un plaisir de discuter.
+c'était sympa de parler avec toi | Pour moi aussi, à bientôt !
+on se parle demain / on se reparle demain | Avec plaisir, à demain !
+je reviens plus tard | D'accord, je t'attends.
+je dois y aller / je dois partir | D'accord, à bientôt !
+je vais manger | Bon appétit, à tout à l'heure !
+je vais dormir | Bonne nuit, dors bien !
+je vais travailler | Bon courage !
+je vais jouer | Amuse-toi bien !
+je vais en cours | Bon courage pour tes cours !
+je vais faire du sport | Bonne séance !
+je vais lire | Bonne lecture !
+je vais regarder un film | Bon film !
+je vais sortir | Amuse-toi bien, et fais attention à toi !
+je pars en vacances | Super, bon voyage et bonnes vacances !
+je pars en voyage | Bon voyage !
+c'est mon jour de chance | Super, profites-en bien !
+c'est un grand jour | Que se passe-t-il de si important ?
+j'ai une grande nouvelle | Raconte-moi vite !
+j'ai une mauvaise nouvelle | Je t'écoute, je suis désolé d'avance.
+tu veux savoir un truc | Oui, dis-moi !
+tu ne devineras jamais | Dis-moi, je suis curieux !
+c'est un secret | Je ne dirai rien, promis.
+chut | D'accord, je me tais.
+silence | Très bien, je ne dis plus rien.
+attention | Oui ? Que se passe-t-il ?
+au secours / à l'aide | Si c'est une urgence, appelle vite le cent douze ou une personne de confiance.
+j'ai besoin d'un médecin | Appelle un médecin ou le quinze en cas d'urgence.
+appelle la police | Je ne peux pas appeler, mais en cas d'urgence, compose le dix-sept.
+appelle les pompiers | Je ne peux pas appeler, mais en cas d'urgence, compose le dix-huit.
+quel est le numéro d'urgence | En France, le numéro d'urgence européen est le cent douze.
+quelle est ta devise | Apprendre un peu chaque jour.
+quel est ton animal préféré | J'aime les chats, ils sont doux et curieux.
+quel est ton film préféré | Je n'ai pas vu de film, mais j'aime les histoires de robots.
+quel est ton livre préféré | Mon livre préféré serait un dictionnaire, il est plein de mots !
+quelle est ta saison préférée | J'aime le printemps, quand tout renaît.
+quelle est ta fleur préférée | J'aime les tournesols, ils suivent le soleil.
+quelle est ta couleur préférée | J'aime le bleu, comme le ciel.
+quel est ton chiffre préféré | Mon chiffre préféré est le sept.
+quel est ton jour préféré | J'aime le week-end, parce que tu as plus de temps pour discuter.
+quel est ton mot préféré | Mon mot préféré est bonjour.
+tu préfères les chats ou les chiens | Je les aime tous les deux, mais le chat est plus tranquille.
+tu préfères l'été ou l'hiver | Je préfère l'été, quand il fait beau.
+tu préfères le jour ou la nuit | Je préfère le jour, il y a plus de monde pour discuter.
+tu préfères la mer ou la montagne | La mer, pour entendre les vagues.
+tu préfères le sucré ou le salé | Le sucré, les crêpes sont mes préférées.

@@ -1,0 +1,99 @@
+# Histoire, géographie, sciences, maths, langue
+qui est napoléon / c'est qui napoléon | Napoléon Bonaparte est un empereur des Français, né en 1769.
+qui est louis xiv / c'est qui le roi soleil | Louis XIV, surnommé le Roi-Soleil, a été roi de France pendant plus de soixante-dix ans.
+qui est jeanne d'arc | Jeanne d'Arc est une héroïne française du Moyen Âge qui a défendu la France.
+qui est charlemagne | Charlemagne est un empereur du Moyen Âge qui a dirigé un grand empire.
+qui est victor hugo | Victor Hugo est un grand écrivain français, auteur des Misérables.
+qui est molière | Molière est un grand auteur de pièces de théâtre comiques du dix-septième siècle.
+qui est léonard de vinci | Léonard de Vinci est un artiste et inventeur italien, auteur de la Joconde.
+qui est albert einstein | Albert Einstein est un célèbre physicien qui a proposé la théorie de la relativité.
+qui est isaac newton | Isaac Newton est un savant anglais qui a étudié la gravité.
+qui est marie curie | Marie Curie est une grande scientifique qui a étudié la radioactivité.
+qui est louis pasteur | Louis Pasteur est un scientifique français qui a mis au point le vaccin contre la rage.
+qui est christophe colomb | Christophe Colomb est un navigateur qui a atteint l'Amérique en 1492.
+qui est mozart | Mozart est un célèbre compositeur autrichien de musique classique.
+qui est picasso | Pablo Picasso est un peintre espagnol très célèbre.
+qui est le président de la france | Je ne suis pas au courant de l'actualité, regarde un site d'information.
+c'est quoi la révolution française | La Révolution française commence en 1789 et met fin à la monarchie absolue.
+c'est quoi la préhistoire | La préhistoire est la période avant l'invention de l'écriture.
+c'est quoi le moyen âge | Le Moyen Âge est une période de l'histoire qui va environ du cinquième au quinzième siècle.
+c'est quoi une guerre | Une guerre est un conflit armé entre des pays ou des groupes.
+c'est quoi la paix | La paix est l'absence de guerre, quand les gens vivent en harmonie.
+c'est quoi un roi / une reine | Un roi ou une reine dirige un pays dans une monarchie.
+c'est quoi un président | Un président est une personne qui dirige un pays ou une organisation.
+c'est quoi la démocratie | La démocratie est un système où le peuple choisit ses dirigeants par le vote.
+c'est quoi une loi | Une loi est une règle que tout le monde doit respecter dans un pays.
+c'est quoi un citoyen | Un citoyen est une personne qui appartient à un pays et a des droits et des devoirs.
+c'est quoi un château | Un château est un grand bâtiment fortifié où vivaient les seigneurs.
+c'est quoi une pyramide | Une pyramide est un grand monument de pierre, comme celles d'Égypte.
+c'est quoi l'égypte | L'Égypte est un pays d'Afrique du Nord, célèbre pour ses pyramides.
+c'est quoi la chine | La Chine est un très grand pays d'Asie.
+c'est quoi l'inde | L'Inde est un grand pays d'Asie du Sud.
+c'est quoi le brésil | Le Brésil est le plus grand pays d'Amérique du Sud.
+c'est quoi l'australie | L'Australie est un pays-continent situé dans l'hémisphère sud.
+c'est quoi l'italie | L'Italie est un pays d'Europe en forme de botte, dont la capitale est Rome.
+c'est quoi l'espagne | L'Espagne est un pays d'Europe du Sud, dont la capitale est Madrid.
+c'est quoi l'allemagne | L'Allemagne est un pays d'Europe dont la capitale est Berlin.
+c'est quoi l'angleterre | L'Angleterre est un pays du Royaume-Uni, dont la capitale est Londres.
+c'est quoi la russie | La Russie est le plus grand pays du monde.
+c'est quoi le maroc | Le Maroc est un pays d'Afrique du Nord, dont la capitale est Rabat.
+c'est quoi l'algérie | L'Algérie est un pays d'Afrique du Nord, dont la capitale est Alger.
+quelle est la capitale du canada | La capitale du Canada est Ottawa.
+quelle est la capitale du brésil | La capitale du Brésil est Brasilia.
+quelle est la capitale de la chine | La capitale de la Chine est Pékin.
+quelle est la capitale de la belgique | La capitale de la Belgique est Bruxelles.
+quelle est la capitale de la suisse | La capitale de la Suisse est Berne.
+quelle est la capitale du portugal | La capitale du Portugal est Lisbonne.
+quelle est la capitale de la russie | La capitale de la Russie est Moscou.
+quelle est la capitale de l'égypte | La capitale de l'Égypte est Le Caire.
+quelle est la capitale de l'australie | La capitale de l'Australie est Canberra.
+quel est le plus long fleuve de france | Le plus long fleuve de France est la Loire.
+quelle est la plus grande ville de france | La plus grande ville de France est Paris.
+quelle est la plus haute montagne de france | La plus haute montagne de France est le mont Blanc.
+combien d'habitants en france | Il y a environ soixante-huit millions d'habitants en France.
+combien de pays dans le monde | Il y a près de deux cents pays dans le monde.
+c'est quoi un satellite | Un satellite est un objet qui tourne autour d'une planète.
+c'est quoi le système solaire | Le système solaire est formé du Soleil et de tous les astres qui tournent autour.
+c'est quoi la galaxie / la voie lactée | La Voie lactée est la galaxie qui contient notre système solaire.
+c'est quoi une comète | Une comète est un corps glacé qui forme une longue queue près du Soleil.
+c'est quoi jupiter | Jupiter est la plus grande planète du système solaire.
+c'est quoi saturne | Saturne est une planète entourée de grands anneaux.
+c'est quoi vénus | Vénus est la deuxième planète à partir du Soleil, très chaude.
+c'est quoi mercure | Mercure est la planète la plus proche du Soleil.
+c'est quoi la voie lactée | C'est notre galaxie, un immense ensemble d'étoiles.
+c'est quoi un cercle / un carré | Un cercle est rond, et un carré a quatre côtés égaux.
+c'est quoi un triangle | Un triangle est une forme à trois côtés.
+c'est quoi un rectangle | Un rectangle est une forme à quatre côtés avec quatre angles droits.
+c'est quoi un angle | Un angle est l'écart entre deux lignes qui se rejoignent.
+c'est quoi un pourcentage | Un pourcentage exprime une proportion sur cent.
+c'est quoi une fraction | Une fraction exprime une partie d'un tout, comme un demi.
+c'est quoi un chiffre / un nombre | Un chiffre sert à écrire les nombres, comme 0, 1, 2 ou 3.
+c'est quoi zéro | Zéro est le nombre qui représente rien.
+c'est quoi l'infini | L'infini est ce qui n'a pas de fin.
+combien font dix plus dix | Dix plus dix font vingt.
+combien font cinq fois cinq | Cinq fois cinq font vingt-cinq.
+combien font cent moins un | Cent moins un font quatre-vingt-dix-neuf.
+quel est le double de dix | Le double de dix est vingt.
+quelle est la moitié de dix | La moitié de dix est cinq.
+quel est le plus grand nombre | Il n'y a pas de plus grand nombre, on peut toujours en ajouter un.
+compte jusqu'à dix / compte de un à dix | Un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix !
+dis l'alphabet / récite l'alphabet | A, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z !
+combien de lettres dans l'alphabet | Il y a vingt-six lettres dans l'alphabet.
+c'est quoi une voyelle | Les voyelles sont a, e, i, o, u et y.
+c'est quoi une consonne | Une consonne est une lettre qui n'est pas une voyelle.
+c'est quoi un adjectif | Un adjectif décrit un nom, comme grand, petit ou rouge.
+c'est quoi un pronom | Un pronom remplace un nom, comme il, elle ou nous.
+c'est quoi un mot | Un mot est un groupe de lettres qui a un sens.
+c'est quoi un synonyme | Un synonyme est un mot qui a presque le même sens qu'un autre.
+c'est quoi un contraire | Un contraire est un mot de sens opposé, comme grand et petit.
+c'est quoi l'orthographe | L'orthographe est la manière correcte d'écrire les mots.
+c'est quoi la grammaire | La grammaire est l'ensemble des règles d'une langue.
+c'est quoi la conjugaison | La conjugaison est la façon de changer un verbe selon la personne et le temps.
+c'est quoi un dictionnaire | Un dictionnaire est un livre qui donne le sens des mots.
+c'est quoi une langue | Une langue est ce que parlent les gens pour se comprendre.
+comment dire bonjour en anglais | Bonjour se dit hello en anglais.
+comment dire merci en anglais | Merci se dit thank you en anglais.
+comment dire bonjour en espagnol | Bonjour se dit hola en espagnol.
+comment dire bonjour en allemand | Bonjour se dit guten Tag en allemand.
+comment dire bonjour en italien | Bonjour se dit buongiorno en italien.
+comment dire au revoir en anglais | Au revoir se dit goodbye en anglais.

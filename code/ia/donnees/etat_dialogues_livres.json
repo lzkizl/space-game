@@ -1,0 +1,122 @@
+{
+"curseurs": {
+"quotidien": {
+"split": "test",
+"offset": 100
+},
+"livres": {
+"page": "https://gutendex.com/books/?languages=fr&page=4",
+"attente": [
+[
+26370,
+"https://www.gutenberg.org/ebooks/26370.txt.utf-8"
+],
+[
+16816,
+"https://www.gutenberg.org/ebooks/16816.txt.utf-8"
+],
+[
+70954,
+"https://www.gutenberg.org/ebooks/70954.txt.utf-8"
+],
+[
+54182,
+"https://www.gutenberg.org/ebooks/54182.txt.utf-8"
+],
+[
+48529,
+"https://www.gutenberg.org/ebooks/48529.txt.utf-8"
+],
+[
+70998,
+"https://www.gutenberg.org/ebooks/70998.txt.utf-8"
+],
+[
+17493,
+"https://www.gutenberg.org/ebooks/17493.txt.utf-8"
+],
+[
+17992,
+"https://www.gutenberg.org/ebooks/17992.txt.utf-8"
+],
+[
+60052,
+"https://www.gutenberg.org/ebooks/60052.txt.utf-8"
+],
+[
+53749,
+"https://www.gutenberg.org/ebooks/53749.txt.utf-8"
+],
+[
+33931,
+"https://www.gutenberg.org/ebooks/33931.txt.utf-8"
+],
+[
+45655,
+"https://www.gutenberg.org/ebooks/45655.txt.utf-8"
+],
+[
+17990,
+"https://www.gutenberg.org/ebooks/17990.txt.utf-8"
+],
+[
+27451,
+"https://www.gutenberg.org/ebooks/27451.txt.utf-8"
+],
+[
+21001,
+"https://www.gutenberg.org/ebooks/21001.txt.utf-8"
+],
+[
+17991,
+"https://www.gutenberg.org/ebooks/17991.txt.utf-8"
+],
+[
+28788,
+"https://www.gutenberg.org/ebooks/28788.txt.utf-8"
+],
+[
+53502,
+"https://www.gutenberg.org/ebooks/53502.txt.utf-8"
+],
+[
+45150,
+"https://www.gutenberg.org/ebooks/45150.txt.utf-8"
+],
+[
+71062,
+"https://www.gutenberg.org/ebooks/71062.txt.utf-8"
+],
+[
+5250,
+"https://www.gutenberg.org/ebooks/5250.txt.utf-8"
+],
+[
+5711,
+"https://www.gutenberg.org/ebooks/5711.txt.utf-8"
+],
+[
+12949,
+"https://www.gutenberg.org/ebooks/12949.txt.utf-8"
+],
+[
+24850,
+"https://www.gutenberg.org/ebooks/24850.txt.utf-8"
+],
+[
+14790,
+"https://www.gutenberg.org/ebooks/14790.txt.utf-8"
+],
+[
+47743,
+"https://www.gutenberg.org/ebooks/47743.txt.utf-8"
+]
+],
+"faits": 70
+}
+},
+"fait": {
+"oasst2": true,
+"quotidien": true
+}
+}

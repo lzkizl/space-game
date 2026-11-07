@@ -1,0 +1,109 @@
+# Animaux, nature, nourriture, corps humain
+c'est quoi un lion / parle-moi du lion | Le lion est un grand félin d'Afrique, surnommé le roi des animaux.
+c'est quoi un tigre | Le tigre est le plus grand des félins, avec un pelage rayé.
+c'est quoi un éléphant | L'éléphant est le plus grand animal terrestre, avec une longue trompe.
+c'est quoi une girafe | La girafe est un animal d'Afrique au très long cou.
+c'est quoi un singe / parle-moi des singes | Les singes sont des animaux malins qui vivent souvent dans les arbres.
+c'est quoi un ours | L'ours est un grand animal à fourrure qui hiberne en hiver.
+c'est quoi un loup | Le loup est un animal sauvage qui vit en meute, proche du chien.
+c'est quoi un renard | Le renard est un petit animal sauvage à la queue touffue, connu pour sa ruse.
+c'est quoi un cheval / parle-moi des chevaux | Le cheval est un animal rapide et fort que l'on monte depuis des siècles.
+c'est quoi une vache | La vache est un animal de ferme qui donne du lait.
+c'est quoi un cochon / un porc | Le cochon est un animal de ferme à la peau rose.
+c'est quoi une poule | La poule est un oiseau de ferme qui pond des oeufs.
+c'est quoi un mouton | Le mouton est un animal de ferme dont la laine sert à faire des vêtements.
+c'est quoi un lapin | Le lapin est un petit animal à longues oreilles qui aime les carottes.
+c'est quoi une souris | Une souris est un petit rongeur. C'est aussi l'objet qui sert à déplacer le curseur.
+c'est quoi un oiseau / parle-moi des oiseaux | Un oiseau est un animal qui a des plumes, des ailes et la plupart du temps peut voler.
+c'est quoi un aigle | L'aigle est un grand oiseau de proie à la vue très perçante.
+c'est quoi un hibou / une chouette | Le hibou est un oiseau de nuit aux grands yeux, qui chasse dans l'obscurité.
+c'est quoi un poisson | Un poisson est un animal qui vit dans l'eau et respire avec des branchies.
+c'est quoi un requin | Le requin est un grand poisson qui vit dans la mer et chasse d'autres animaux.
+c'est quoi une baleine | La baleine est le plus grand animal de la planète, c'est un mammifère marin.
+c'est quoi un dauphin | Le dauphin est un mammifère marin très intelligent et joueur.
+c'est quoi une tortue | La tortue est un reptile qui porte une carapace et vit très longtemps.
+c'est quoi un serpent | Un serpent est un reptile long et sans pattes. Certains sont venimeux.
+c'est quoi une grenouille | La grenouille est un petit animal qui vit près de l'eau et saute très loin.
+c'est quoi un papillon | Un papillon est un insecte aux ailes colorées qui était une chenille.
+c'est quoi une abeille | L'abeille est un insecte qui fabrique du miel et pollinise les fleurs.
+c'est quoi une fourmi | La fourmi est un petit insecte qui vit en colonie et travaille très dur.
+c'est quoi une araignée | Une araignée est un petit animal à huit pattes qui tisse des toiles.
+c'est quoi un dinosaure / parle-moi des dinosaures | Les dinosaures sont des animaux géants qui vivaient sur Terre il y a des millions d'années.
+c'est quoi un mammifère | Un mammifère est un animal qui allaite ses petits, comme le chat, le chien ou l'humain.
+quel est l'animal le plus rapide | Le guépard est l'animal terrestre le plus rapide.
+quel est le plus grand animal | Le plus grand animal est la baleine bleue.
+quel est le plus petit animal | Il existe de minuscules insectes presque invisibles à l'oeil nu.
+quel animal fait miaou / que dit le chat | Le chat fait miaou !
+que dit le chien / quel animal fait ouaf | Le chien fait ouaf !
+que dit la vache | La vache fait meuh !
+que dit le canard | Le canard fait coin coin !
+que dit le cochon | Le cochon fait groin groin !
+que dit le mouton | Le mouton fait bêêê !
+que dit le lion | Le lion rugit !
+que dit la poule | La poule fait cot cot !
+que dit le coq | Le coq fait cocorico !
+que mange un chat | Le chat mange des croquettes, de la viande ou du poisson.
+que mange un chien | Le chien mange de la viande et des croquettes.
+que mange un lapin | Le lapin mange des carottes et de l'herbe.
+que mange une vache | La vache mange de l'herbe et du foin.
+combien de pattes a un chien | Un chien a quatre pattes.
+combien de pattes a une araignée | Une araignée a huit pattes.
+combien de pattes a un insecte | Un insecte a six pattes.
+quel animal a une trompe | L'éléphant a une trompe.
+quel animal a un long cou | La girafe a un très long cou.
+quel animal vit le plus longtemps | La tortue peut vivre plus de cent ans.
+j'ai un chat / mon chat | C'est génial, les chats sont adorables ! Comment s'appelle-t-il ?
+j'ai un chien / mon chien | Super ! Les chiens sont de vrais amis. Comment s'appelle-t-il ?
+je n'ai pas d'animal / je veux un animal | Un animal demande beaucoup d'attention, mais c'est une belle compagnie.
+c'est quoi une fleur / parle-moi des fleurs | Une fleur est la partie colorée d'une plante qui attire les insectes.
+c'est quoi une rose | La rose est une fleur parfumée qui a des épines.
+c'est quoi l'herbe | L'herbe est une plante verte qui couvre les prés et les jardins.
+c'est quoi une forêt | Une forêt est un grand espace couvert d'arbres.
+c'est quoi une montagne | Une montagne est une très haute élévation de terrain.
+c'est quoi une rivière | Une rivière est un cours d'eau qui coule vers un fleuve ou la mer.
+c'est quoi un fleuve | Un fleuve est un grand cours d'eau qui se jette dans la mer.
+c'est quoi un lac | Un lac est une grande étendue d'eau entourée de terre.
+c'est quoi la mer / l'océan | La mer et l'océan sont de grandes étendues d'eau salée.
+c'est quoi une île | Une île est une terre entourée d'eau de tous les côtés.
+c'est quoi un désert | Un désert est une région très sèche où il pleut très peu.
+c'est quoi un volcan | Un volcan est une montagne par où sort de la lave quand il entre en éruption.
+c'est quoi un tremblement de terre | Un tremblement de terre est une secousse du sol causée par le mouvement de la Terre.
+c'est quoi un orage | Un orage est un phénomène avec de la pluie, du tonnerre et des éclairs.
+c'est quoi un éclair | Un éclair est une décharge d'électricité dans le ciel pendant l'orage.
+c'est quoi un arc-en-ciel | Un arc-en-ciel apparaît quand la lumière du soleil traverse la pluie.
+c'est quoi le soleil couchant | Le soleil couchant est le moment où le Soleil disparaît à l'horizon le soir.
+c'est quoi une pomme | La pomme est un fruit rond, rouge, vert ou jaune.
+c'est quoi une banane | La banane est un fruit jaune et sucré qui pousse dans les pays chauds.
+c'est quoi une orange | L'orange est un fruit rond et juteux, riche en vitamine C.
+c'est quoi une fraise | La fraise est un petit fruit rouge et sucré.
+c'est quoi une carotte | La carotte est un légume orange qui pousse sous la terre.
+c'est quoi une tomate | La tomate est un fruit rouge que l'on mange comme un légume.
+c'est quoi une pomme de terre | La pomme de terre est un légume qui pousse sous la terre, on en fait des frites.
+c'est quoi le pain / une baguette | Le pain est un aliment fait avec de la farine, de l'eau et de la levure.
+c'est quoi le fromage | Le fromage est un aliment fabriqué à partir de lait.
+c'est quoi le chocolat | Le chocolat est une friandise faite à partir de cacao.
+c'est quoi une pizza | La pizza est un plat italien fait d'une pâte garnie de tomate et de fromage.
+c'est quoi une crêpe | La crêpe est une fine galette sucrée faite avec de la farine, du lait et des oeufs.
+c'est quoi un croissant | Le croissant est une viennoiserie au beurre que l'on mange au petit-déjeuner.
+quel est ton plat préféré | Je ne mange pas, mais je trouve les crêpes très sympathiques.
+tu aimes la pizza | La pizza a l'air délicieuse, mais je n'ai jamais pu y goûter.
+tu aimes le chocolat | Le chocolat a l'air délicieux, mais je ne peux pas en manger.
+qu'est-ce que tu manges au petit-déjeuner | Moi, je ne mange pas, mais toi tu peux prendre des céréales ou un croissant.
+qu'est-ce que je mange ce soir / je mange quoi | Pourquoi pas des pâtes ou une bonne soupe ?
+c'est quoi une recette | Une recette explique comment préparer un plat étape par étape.
+c'est quoi le petit-déjeuner / le déjeuner / le dîner | Ce sont les repas du matin, du midi et du soir.
+c'est quoi le coeur | Le coeur est le muscle qui fait circuler le sang dans le corps.
+c'est quoi le cerveau | Le cerveau est l'organe qui commande tout le corps et sert à penser.
+c'est quoi un os / le squelette | Les os forment le squelette, qui soutient le corps.
+c'est quoi le sang | Le sang circule dans le corps et transporte l'oxygène.
+c'est quoi un muscle | Un muscle permet de bouger les différentes parties du corps.
+c'est quoi la peau | La peau est l'enveloppe qui protège tout notre corps.
+combien de doigts a une main | Une main a cinq doigts.
+combien de yeux a-t-on / combien d'yeux | On a deux yeux.
+combien de dents a un enfant | Un enfant a vingt dents de lait.
+comment on voit / à quoi servent les yeux | Les yeux captent la lumière et envoient des images au cerveau.
+à quoi sert le nez | Le nez sert à respirer et à sentir les odeurs.
+à quoi servent les oreilles | Les oreilles servent à entendre les sons.
+à quoi sert la bouche | La bouche sert à manger, boire et parler.
+à quoi sert le coeur | Le coeur pompe le sang pour l'envoyer dans tout le corps.
+à quoi servent les poumons | Les poumons permettent de respirer.
